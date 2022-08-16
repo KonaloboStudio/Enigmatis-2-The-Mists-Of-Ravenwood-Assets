@@ -1,0 +1,8 @@
+<animatedImage fps="24" blendframes="0" width="48" height="32">
+    <frame source="monarch-butterfly_1_1_shadow.png" dx="0" dy="21" width="39" height="9" />
+    <frame source="monarch-butterfly_1_1-4.png" dx="0" dy="0" width="48" height="32" />
+    <frame source="monarch-butterfly_1_1-3.png" dx="0" dy="0" width="48" height="32" />
+    <frame source="monarch-butterfly_1_1-2.png" dx="0" dy="0" width="48" height="32" />
+    <frame source="monarch-butterfly_1_1-1.png" dx="0" dy="0" width="48" height="32" />
+    <frame source="monarch-butterfly_1_1-0.png" dx="0" dy="0" width="48" height="32" />
+</animatedImage>

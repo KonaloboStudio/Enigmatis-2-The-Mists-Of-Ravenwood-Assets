@@ -1,0 +1,4 @@
+<animatedImage fps="7" blendframes="0" width="32" height="76">
+	<frame source="tunel_lizard_lizard_01.png" dx="4" dy="0" width="28" height="75"></frame>
+	<frame source="tunel_lizard_lizard_02.png" dx="0" dy="1" width="25" height="75"></frame>
+</animatedImage>

@@ -1,0 +1,6 @@
+<animatedImage fps="12" blendframes="0" width="130" height="52">
+	<frame source="boat_crab_crab_01.png" dx="3" dy="0" width="116" height="52"></frame>
+	<frame source="boat_crab_crab_02.png" dx="0" dy="3" width="130" height="49"></frame>
+	<frame source="boat_crab_crab_03.png" dx="0" dy="4" width="128" height="48"></frame>
+	<frame source="boat_crab_crab_01.png" dx="3" dy="0" width="116" height="52"></frame>
+</animatedImage>

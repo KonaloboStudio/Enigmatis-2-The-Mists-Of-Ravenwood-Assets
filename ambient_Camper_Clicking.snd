@@ -1,0 +1,5 @@
+<Sound Looped="true" Ambient="true" Volume="0.55"> 
+	<CSample >
+		<CSampleFile   FileName="ambient_Camper_Clicking.wav"/>
+	</CSample>
+</Sound>

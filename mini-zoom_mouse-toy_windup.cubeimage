@@ -1,0 +1,17 @@
+<animatedImage fps="9" blendframes="0" width="147" height="131">
+	<frame source="mini-zoom_mouse-toy_windup-key_00.png" dx="0" dy="0" width="144" height="114"></frame>
+	<frame source="mini-zoom_mouse-toy_windup-key_01.png" dx="28" dy="5" width="82" height="126"></frame>
+	<frame source="mini-zoom_mouse-toy_windup-key_02.png" dx="39" dy="8" width="74" height="120"></frame>
+	<frame source="mini-zoom_mouse-toy_windup-key_00.png" dx="0" dy="0" width="144" height="114"></frame>
+	<frame source="mini-zoom_mouse-toy_windup-key_00.png" dx="0" dy="0" width="144" height="114"></frame>
+	<frame source="mini-zoom_mouse-toy_windup-key_00.png" dx="0" dy="0" width="144" height="114"></frame>
+	<frame source="mini-zoom_mouse-toy_windup-key_01.png" dx="28" dy="5" width="82" height="126"></frame>
+	<frame source="mini-zoom_mouse-toy_windup-key_02.png" dx="39" dy="8" width="74" height="120"></frame>
+	<frame source="mini-zoom_mouse-toy_windup-key_00.png" dx="0" dy="0" width="144" height="114"></frame>
+	<frame source="mini-zoom_mouse-toy_windup-key_00.png" dx="0" dy="0" width="144" height="114"></frame>
+	<frame source="mini-zoom_mouse-toy_windup-key_00.png" dx="0" dy="0" width="144" height="114"></frame>
+	<frame source="mini-zoom_mouse-toy_windup-key_01.png" dx="28" dy="5" width="82" height="126"></frame>
+	<frame source="mini-zoom_mouse-toy_windup-key_02.png" dx="39" dy="8" width="74" height="120"></frame>
+	<frame source="mini-zoom_mouse-toy_windup-key_00.png" dx="0" dy="0" width="144" height="114"></frame>
+	<frame source="mini-zoom_mouse-toy_windup-key_00.png" dx="0" dy="0" width="144" height="114"></frame>
+</animatedImage>

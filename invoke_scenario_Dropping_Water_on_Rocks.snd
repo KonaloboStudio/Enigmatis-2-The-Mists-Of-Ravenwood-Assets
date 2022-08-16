@@ -1,0 +1,22 @@
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" Delay="1.700">
+<CRandomContainer DelayMin="0" DelayMax="0">
+
+<CSample>
+
+<CSampleFile Pan="0.000" Weight="5" Pitch="1.000" Volume="0.900" FileName="invoke_scenario_Dropping_Water_on_Rocks_01.wav"></CSampleFile>
+</CSample>
+
+<CSample>
+
+<CSampleFile Pan="0.000" Weight="5" Pitch="1.000" Volume="0.900" FileName="invoke_scenario_Dropping_Water_on_Rocks_02.wav"></CSampleFile>
+</CSample>
+
+<CSample>
+
+<CSampleFile Pan="0.000" Weight="5" Pitch="1.000" Volume="0.900" FileName="invoke_scenario_Dropping_Water_on_Rocks_03.wav"></CSampleFile>
+</CSample>
+
+
+</CRandomContainer>
+
+</Sound>

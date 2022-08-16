@@ -1,0 +1,7 @@
+<!-- Used in numerous Locations. Pressing any door handle to open the door. -->
+
+<Sound Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" FileName="pushing_large_metal_handle.wav"></CSampleFile>
+        </CSample>
+</Sound>

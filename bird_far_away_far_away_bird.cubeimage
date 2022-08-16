@@ -1,0 +1,12 @@
+<animatedImage fps="4" blendframes="0" width="32" height="39">
+	<frame source="bird_far_away_bird_02.png" dx="0" dy="9" width="32" height="26"></frame>
+	<frame source="bird_far_away_bird_02.png" dx="0" dy="9" width="32" height="26"></frame>
+	<frame source="bird_far_away_bird_02.png" dx="0" dy="9" width="32" height="26"></frame>
+	<frame source="bird_far_away_bird_02.png" dx="0" dy="9" width="32" height="26"></frame>
+	<frame source="bird_far_away_bird_02.png" dx="0" dy="9" width="32" height="26"></frame>
+	<frame source="bird_far_away_bird_02.png" dx="0" dy="9" width="32" height="26"></frame>
+	<frame source="bird_far_away_bird_01.png" dx="0" dy="2" width="29" height="37"></frame>
+	<frame source="bird_far_away_bird_02.png" dx="0" dy="9" width="32" height="26"></frame>
+	<frame source="bird_far_away_bird_03.png" dx="2" dy="0" width="25" height="34"></frame>
+	<frame source="bird_far_away_bird_02.png" dx="0" dy="9" width="32" height="26"></frame>
+</animatedImage>

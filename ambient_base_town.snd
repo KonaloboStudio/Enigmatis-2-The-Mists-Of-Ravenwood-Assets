@@ -1,0 +1,120 @@
+<!-- Base ambient soundscript for town locations:
+
+- Village.Hill
+- Village.Square
+- Village.House.Balcony
+- Village.PeripheralHouse.Yard
+- MainRoad.GasStation
+- Farm.Entrance
+- Farm.Center
+
+-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="0.75" Looped="true" Ambient="true">
+    <CRandomContainer DelayMin="3" DelayMax="5" WaitAfterMin="3" WaitAfterMax="5">
+
+  	    <CRandomContainer Weight="10" Volume="0.75" FadeInTime="0.75" FadeOutTime="0.75">
+		<!-- Wind /wo Leafs -->
+           <CSample Weight="1">
+		      <CSampleFile Pan="0.000" Pitch="0.500" FileName="wind_no_leafs.wav"></CSampleFile>
+		   </CSample>
+           <CSample Weight="1">
+		      <CSampleFile Pan="0.000" Pitch="0.500" FileName="wind_no_leafs_2.wav"></CSampleFile>
+		   </CSample>
+        </CRandomContainer>
+
+  	    <CRandomContainer Weight="10" Volume="0.25" FadeInTime="0.75" FadeOutTime="0.75">
+		<!-- Wind /w Leafs -->
+           <CSample Weight="1">
+		      <CSampleFile Pan="0.000" Volume="1.0" Pitch="0.500" FileName="wind_with_leafs.wav"></CSampleFile>
+		   </CSample>
+           <CSample Weight="1">
+		      <CSampleFile Pan="0.000" Volume="1.0" Pitch="0.500" FileName="wind_with_leafs_2.wav"></CSampleFile>
+		   </CSample>
+        </CRandomContainer>
+
+  	    <CSample Weight="8" Volume="0.5">
+		<!-- Falling stick hard -->
+		   <CSampleFile Pan="0.000" Volume="1.0" Pitch="0.500" FileName="falling_stick_hard.wav"></CSampleFile>
+        </CSample>
+
+  	    <CSample Weight="8" Volume="0.5">
+		<!-- Falling stick soft -->
+		   <CSampleFile Pan="0.000" Volume="1.0" Pitch="0.500" FileName="falling_stick_soft.wav"></CSampleFile>
+        </CSample>
+
+  	    <CRandomContainer Weight="60" Volume="0.6" FadeInTime="0.25" FadeOutTime="0.25">
+		<!-- Artificial Squeak -->
+           <CSample Weight="1">
+		      <CSampleFile Pan="0.000" Volume="1.0" Pitch="0.500" FileName="05_Artificial_Squeak_2.wav"></CSampleFile>
+		   </CSample>
+           <CSample Weight="1">
+		      <CSampleFile Pan="0.000" Volume="1.0" Pitch="0.500" FileName="05_Artificial_Squeak_6.wav"></CSampleFile>
+		   </CSample>
+           <CSample Weight="1">
+		      <CSampleFile Pan="0.000" Volume="1.0" Pitch="0.500" FileName="05_Artificial_Squeak_7.wav"></CSampleFile>
+		   </CSample>
+           <CSample Weight="1">
+		      <CSampleFile Pan="0.000" Volume="1.0" Pitch="0.500" FileName="81_Artificial_Squeak.wav"></CSampleFile>
+		   </CSample>
+        </CRandomContainer>
+
+  	    <CRandomContainer Weight="10" Volume="0.75" FadeInTime="0.25" FadeOutTime="0.25">
+		<!-- Natural Squeak -->
+           <CSample Weight="1">
+		      <CSampleFile Pan="0.000" Volume="1.0" Pitch="0.500" FileName="82_Natural_Squeak.wav"></CSampleFile>
+		   </CSample>
+           <CSample Weight="1">
+		      <CSampleFile Pan="0.000" Volume="1.0" Pitch="0.500" FileName="07_Natural_Squeak_2.wav"></CSampleFile>
+		   </CSample>
+        </CRandomContainer>
+
+  	    <CRandomContainer Weight="20" Volume="0.75">
+		<!-- Birds: Owl -->
+           <CSample Weight="1">
+		      <CSampleFile Pan="0.000" Volume="1.0" Pitch="1.0" FileName="15_bird_2_1.wav"></CSampleFile>
+		   </CSample>
+           <CSample Weight="1">
+		      <CSampleFile Pan="0.000" Volume="1.0" Pitch="1.0" FileName="15_bird_2_2.wav"></CSampleFile>
+		   </CSample>
+           <CSample Weight="1">
+		      <CSampleFile Pan="0.000" Volume="1.0" Pitch="1.0" FileName="15_bird_2_3.wav"></CSampleFile>
+		   </CSample>
+        </CRandomContainer>
+
+  	    <CRandomContainer Weight="5" Volume="0.25" FadeInTime="1.5" FadeOutTime="1.5">
+		<!-- Cicadas -->
+           <CSample Weight="1">
+		      <CSampleFile Pan="0.000" Volume="1.0" Pitch="0.500" FileName="cicada_1.wav"></CSampleFile>
+		   </CSample>
+           <CSample Weight="1">
+		      <CSampleFile Pan="0.000" Volume="1.0" Pitch="0.500" FileName="cicada_2.wav"></CSampleFile>
+		   </CSample>
+        </CRandomContainer>
+
+		<CSequenceContainer Weight="10" Volume="0.3">
+		<!-- Sneaking dirt: several steps -->
+		   <CSoundContainer WaitAfter="1.0">
+		   <CSample>
+              <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.9" FileName="51_Walking_Grass_1.wav"></CSampleFile>
+           </CSample>
+		   </CSoundContainer>
+		   <CSoundContainer WaitAfter="1.0">
+		   <CSample>
+              <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.0" FileName="51_Walking_Grass_3.wav"></CSampleFile>
+           </CSample>
+		   </CSoundContainer>
+		   <CSoundContainer WaitAfter="1.0">
+		   <CSample>
+              <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.8" FileName="51_Walking_Grass_4.wav"></CSampleFile>
+           </CSample>
+		   </CSoundContainer>
+		   <CSoundContainer WaitAfter="1.0">
+		   <CSample>
+              <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.0" FileName="51_Walking_Grass_2.wav"></CSampleFile>
+           </CSample>
+		   </CSoundContainer>
+		</CSequenceContainer>
+
+    </CRandomContainer>
+</Sound>

@@ -1,0 +1,7 @@
+<animatedImage fps="5" blendframes="0" width="19" height="16">
+    <frame source="main-menu_raven_raven_01.png" dx="0" dy="0" width="19" height="16" />
+    <frame source="main-menu_raven_raven_02.png" dx="0" dy="0" width="19" height="16" />
+    <frame source="main-menu_raven_raven_03.png" dx="1" dy="1" width="18" height="15" />
+    <frame source="main-menu_raven_raven_04.png" dx="0" dy="3" width="19" height="13" />
+    <frame source="main-menu_raven_raven_05.png" dx="0" dy="2" width="19" height="14" />
+</animatedImage>

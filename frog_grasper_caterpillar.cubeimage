@@ -1,0 +1,8 @@
+<animatedImage fps="12" blendframes="0" width="128" height="59">
+	<frame source="frog_grasper_caterpillar_caterpillar_01.png" dx="4" dy="19" width="123" height="40"></frame>
+	<frame source="frog_grasper_caterpillar_caterpillar_02.png" dx="2" dy="12" width="126" height="47"></frame>
+	<frame source="frog_grasper_caterpillar_caterpillar_03.png" dx="0" dy="2" width="125" height="54"></frame>
+	<frame source="frog_grasper_caterpillar_caterpillar_04.png" dx="11" dy="0" width="111" height="56"></frame>
+	<frame source="frog_grasper_caterpillar_caterpillar_03.png" dx="0" dy="2" width="125" height="54"></frame>
+	<frame source="frog_grasper_caterpillar_caterpillar_02.png" dx="2" dy="12" width="126" height="47"></frame>
+</animatedImage>

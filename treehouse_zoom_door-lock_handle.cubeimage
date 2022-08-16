@@ -1,0 +1,15 @@
+<animatedImage fps="20" blendframes="0" width="193" height="174">
+	<frame source="treehouse_zoom_door-lock_handle_handle1.png" dx="0" dy="0" width="193" height="149"></frame>
+	<frame source="treehouse_zoom_door-lock_handle_handle2.png" dx="0" dy="0" width="191" height="153"></frame>
+	<frame source="treehouse_zoom_door-lock_handle_handle3.png" dx="2" dy="0" width="189" height="163"></frame>
+	<frame source="treehouse_zoom_door-lock_handle_handle4.png" dx="5" dy="0" width="186" height="170"></frame>
+	<frame source="treehouse_zoom_door-lock_handle_handle5.png" dx="14" dy="2" width="177" height="172"></frame>
+	<frame source="treehouse_zoom_door-lock_handle_handle6.png" dx="23" dy="1" width="168" height="171"></frame>
+	<frame source="treehouse_zoom_door-lock_handle_handle7.png" dx="26" dy="1" width="165" height="171"></frame>
+	<frame source="treehouse_zoom_door-lock_handle_handle6.png" dx="23" dy="1" width="168" height="171"></frame>
+	<frame source="treehouse_zoom_door-lock_handle_handle5.png" dx="14" dy="2" width="177" height="172"></frame>
+	<frame source="treehouse_zoom_door-lock_handle_handle4.png" dx="5" dy="0" width="186" height="170"></frame>
+	<frame source="treehouse_zoom_door-lock_handle_handle3.png" dx="2" dy="0" width="189" height="163"></frame>
+	<frame source="treehouse_zoom_door-lock_handle_handle2.png" dx="0" dy="0" width="191" height="153"></frame>
+	<frame source="treehouse_zoom_door-lock_handle_handle1.png" dx="0" dy="0" width="193" height="149"></frame>
+</animatedImage>

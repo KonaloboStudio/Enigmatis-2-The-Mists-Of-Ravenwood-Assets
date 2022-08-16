@@ -1,0 +1,4 @@
+<animatedImage fps="8" blendframes="0" width="37" height="55"> 
+	<frame source="ho_raven_padlock-key_EX_key_01.png" dx="0" dy="0" width="37" height="51"></frame>
+	<frame source="ho_raven_padlock-key_EX_key_00.png" dx="2" dy="1" width="33" height="54"></frame>
+</animatedImage >

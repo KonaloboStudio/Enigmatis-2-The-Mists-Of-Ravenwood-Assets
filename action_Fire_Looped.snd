@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+        <CSample>
+           <CSampleFile Pan="0.000"  Looped="true" Pitch="1.000" Volume="1.000" FileName="action_Fire_Looped.wav"></CSampleFile>
+        </CSample>
+</Sound>

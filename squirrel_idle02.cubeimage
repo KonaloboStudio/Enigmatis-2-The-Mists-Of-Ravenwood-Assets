@@ -1,0 +1,4 @@
+<animatedImage fps="2.00" blendframes="0" width="198" height="126">
+    <frame source="treehouse-sunny_squirrel_squirrel_03.png" dx="107" dy="8" width="91" height="92"></frame>
+	<frame source="treehouse-sunny_squirrel_squirrel_04.png" dx="107" dy="4" width="88" height="96"></frame>
+</animatedImage>

@@ -1,0 +1,8 @@
+<!-- Used in Bar. Uncovering moving bear skin on floor -->
+
+<Sound Pan="0.000" Pitch="0.700" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_Bar_Bear_Uncover.wav"></CSampleFile>
+        </CSample>
+
+</Sound>

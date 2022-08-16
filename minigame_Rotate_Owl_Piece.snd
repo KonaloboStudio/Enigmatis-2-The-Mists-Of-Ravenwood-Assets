@@ -1,0 +1,5 @@
+<Sound Pan="0.300" Pitch="0.800" Volume="0.500">
+	<CSample>
+		<CSampleFile FileName="minigame_Rotate_Owl_Piece.wav"/>
+	</CSample>
+</Sound>

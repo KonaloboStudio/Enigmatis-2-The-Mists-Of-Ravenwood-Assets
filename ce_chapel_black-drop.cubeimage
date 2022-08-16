@@ -1,0 +1,13 @@
+<animatedImage fps="4" blendframes="1" width="28" height="212"> 
+	<frame source="ce_chapel_black-drop_1.png" dx="11" dy="0" width="10" height="13"></frame>
+	<frame source="ce_chapel_black-drop_2.png" dx="11" dy="0" width="12" height="19"></frame>
+	<frame source="ce_chapel_black-drop_3.png" dx="15" dy="0" width="13" height="37"></frame>
+	<frame source="ce_chapel_black-drop_4.png" dx="8" dy="11" width="19" height="52"></frame>
+	<frame source="ce_chapel_black-drop_5.png" dx="6" dy="24" width="20" height="65"></frame>
+	<frame source="ce_chapel_black-drop_6.png" dx="0" dy="44" width="19" height="67"></frame>
+	<frame source="ce_chapel_black-drop_7.png" dx="2" dy="83" width="17" height="67"></frame>
+	<frame source="ce_chapel_black-drop_8.png" dx="5" dy="108" width="12" height="60"></frame>
+	<frame source="ce_chapel_black-drop_9.png" dx="3" dy="119" width="14" height="64"></frame>
+	<frame source="ce_chapel_black-drop_10.png" dx="4" dy="139" width="14" height="67"></frame>
+	<frame source="ce_chapel_black-drop_11.png" dx="4" dy="168" width="18" height="44"></frame>
+</animatedImage >

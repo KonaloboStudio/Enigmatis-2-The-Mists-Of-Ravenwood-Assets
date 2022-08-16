@@ -1,0 +1,9 @@
+<animatedImage fps="2" blendframes="0" width="13" height="38">
+	<frame source="ce_entrance_cultist__EX_Cultist_2.png" dx="0" dy="1" width="13" height="37"></frame>
+	<frame source="ce_entrance_cultist__EX_Cultist_1.png" dx="0" dy="0" width="13" height="38"></frame>
+	<frame source="ce_entrance_cultist__EX_Cultist_1.png" dx="0" dy="0" width="13" height="38"></frame>
+	<frame source="ce_entrance_cultist__EX_Cultist_1.png" dx="0" dy="0" width="13" height="38"></frame>
+	<frame source="ce_entrance_cultist__EX_Cultist_1.png" dx="0" dy="0" width="13" height="38"></frame>
+	<frame source="ce_entrance_cultist__EX_Cultist_1.png" dx="0" dy="0" width="13" height="38"></frame>
+	<frame source="ce_entrance_cultist__EX_Cultist_2.png" dx="0" dy="1" width="13" height="37"></frame>
+</animatedImage>

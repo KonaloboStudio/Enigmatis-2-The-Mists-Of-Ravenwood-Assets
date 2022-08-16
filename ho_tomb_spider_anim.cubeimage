@@ -1,0 +1,8 @@
+<animatedImage fps="8" blendframes="1" width="69" height="76">
+	<frame source="tomb_ho_grave_0spider1.png" dx="3" dy="-2" width="63" height="74"></frame>
+	<frame source="tomb_ho_grave_0spider2.png" dx="0" dy="0" width="62" height="74"></frame>
+	<frame source="tomb_ho_grave_0spider3.png" dx="0" dy="0" width="61" height="76"></frame>
+	<frame source="tomb_ho_grave_0spider4.png" dx="0" dy="2" width="67" height="71"></frame>
+	<frame source="tomb_ho_grave_0spider5.png" dx="-3" dy="2" width="69" height="70"></frame>
+	<frame source="tomb_ho_grave_0spider6.png" dx="3" dy="2" width="57" height="67"></frame>
+</animatedImage>

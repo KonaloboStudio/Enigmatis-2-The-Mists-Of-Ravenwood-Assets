@@ -1,0 +1,9 @@
+<!-- Used in Mansion: Diningroom. Moving the lamp. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="true" Ambient="true">
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.800" Volume="0.300" Looped="true" FadeInTime="1.000" FileName="ambient_scenario_moving_lamp.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

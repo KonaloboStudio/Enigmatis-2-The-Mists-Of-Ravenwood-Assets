@@ -1,0 +1,5 @@
+<animatedImage fps="6" blendframes="0" width="357" height="370"> 
+	<frame source="zoom_squirrel_squirrel_Squirrel_07.png" dx="42" dy="147" width="191" height="214"></frame>
+	<frame source="zoom_squirrel_squirrel_Squirrel_08.png" dx="17" dy="110" width="195" height="239"></frame>
+	<frame source="zoom_squirrel_squirrel_Squirrel_09.png" dx="37" dy="187" width="208" height="183"></frame>
+</animatedImage >

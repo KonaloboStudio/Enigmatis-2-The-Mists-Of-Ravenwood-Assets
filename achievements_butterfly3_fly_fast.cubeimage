@@ -1,0 +1,11 @@
+<animatedImage fps="36" blendframes="0" width="37" height="25">
+    <frame source="achievements_butterfly3_5.png" dx="0" dy="0" width="28" height="25" />
+	<frame source="achievements_butterfly3_4.png" dx="0" dy="0" width="29" height="25" />
+    <frame source="achievements_butterfly3_3.png" dx="0" dy="2" width="32" height="23" />
+	<frame source="achievements_butterfly3_2.png" dx="0" dy="7" width="37" height="18" />
+	<frame source="achievements_butterfly3_1.png" dx="0" dy="11" width="37" height="14" />
+    <frame source="achievements_butterfly3_2.png" dx="0" dy="7" width="37" height="18" />
+    <frame source="achievements_butterfly3_3.png" dx="0" dy="2" width="32" height="23" />
+    <frame source="achievements_butterfly3_4.png" dx="0" dy="0" width="29" height="25" />
+    <frame source="achievements_butterfly3_5.png" dx="0" dy="0" width="28" height="25" />
+</animatedImage>

@@ -1,0 +1,7 @@
+<!-- Used in Main menu. Press any option / button.-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.900" Volume="0.800" FileName="mainmenu_Button_Press.wav"></CSampleFile>
+        </CSample>
+</Sound>

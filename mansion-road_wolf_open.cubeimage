@@ -1,0 +1,5 @@
+<animatedImage fps="5" blendframes="0" width="130" height="113">
+	<frame source="mansion-road_wolf_open_Wolf_open_01.png" dx="0" dy="0" width="130" height="106"></frame>
+	<frame source="mansion-road_wolf_open_Wolf_open_02.png" dx="0" dy="0" width="130" height="113"></frame>
+	<frame source="mansion-road_wolf_open_Wolf_open_03.png" dx="23" dy="0" width="107" height="113"></frame>
+</animatedImage>

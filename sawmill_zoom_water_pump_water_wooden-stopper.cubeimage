@@ -1,0 +1,16 @@
+<animatedImage fps="8" blendframes="0" width="29" height="97"> 
+	<frame source="sawmill_zoom_water_pump_water_wooden-stopper_water_cork_001.png" dx="5" dy="1" width="12" height="37"></frame>
+	<frame source="sawmill_zoom_water_pump_water_wooden-stopper_water_cork_002.png" dx="3" dy="0" width="16" height="64"></frame>
+	<frame source="sawmill_zoom_water_pump_water_wooden-stopper_water_cork_003.png" dx="0" dy="1" width="29" height="96"></frame>
+	<frame source="sawmill_zoom_water_pump_water_wooden-stopper_water_cork_004.png" dx="0" dy="1" width="26" height="96"></frame>
+	<frame source="sawmill_zoom_water_pump_water_wooden-stopper_water_cork_005.png" dx="0" dy="1" width="27" height="96"></frame>
+	<frame source="sawmill_zoom_water_pump_water_wooden-stopper_water_cork_006.png" dx="1" dy="1" width="24" height="96"></frame>
+	<frame source="sawmill_zoom_water_pump_water_wooden-stopper_water_cork_007.png" dx="4" dy="1" width="20" height="96"></frame>
+	<frame source="sawmill_zoom_water_pump_water_wooden-stopper_water_cork_005.png" dx="0" dy="1" width="27" height="96"></frame>
+	<frame source="sawmill_zoom_water_pump_water_wooden-stopper_water_cork_006.png" dx="1" dy="1" width="24" height="96"></frame>
+	<frame source="sawmill_zoom_water_pump_water_wooden-stopper_water_cork_007.png" dx="4" dy="1" width="20" height="96"></frame>
+	<frame source="sawmill_zoom_water_pump_water_wooden-stopper_water_cork_008.png" dx="3" dy="1" width="20" height="96"></frame>
+	<frame source="sawmill_zoom_water_pump_water_wooden-stopper_water_cork_009.png" dx="3" dy="17" width="20" height="80"></frame>
+	<frame source="sawmill_zoom_water_pump_water_wooden-stopper_water_cork_010.png" dx="3" dy="23" width="20" height="74"></frame>
+	<frame source="sawmill_zoom_water_pump_water_wooden-stopper_water_cork_011.png" dx="1" dy="42" width="27" height="55"></frame>
+</animatedImage >

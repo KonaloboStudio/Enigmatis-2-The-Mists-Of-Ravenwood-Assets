@@ -1,0 +1,7 @@
+<Sound>
+	<CSoundContainer Delay="0.5">
+		<CSample>
+			<CSampleFile FileName="action_Light_Match.wav"/>
+		</CSample>
+	</CSoundContainer>
+</Sound>

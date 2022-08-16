@@ -1,0 +1,9 @@
+<animatedImage fps="3" blendframes="1" width="187" height="57">
+	<frame source="sawmill_zoom_water_pump_puddle_puddle_01.png" dx="0" dy="26" width="135" height="31"></frame>
+	<frame source="sawmill_zoom_water_pump_puddle_puddle_02.png" dx="3" dy="14" width="149" height="43"></frame>
+	<frame source="sawmill_zoom_water_pump_puddle_puddle_03.png" dx="4" dy="0" width="183" height="57"></frame>
+	<frame source="sawmill_zoom_water_pump_puddle_puddle_03.png" dx="4" dy="0" width="183" height="57"></frame>
+	<frame source="sawmill_zoom_water_pump_puddle_puddle_03.png" dx="4" dy="0" width="183" height="57"></frame>
+	<frame source="sawmill_zoom_water_pump_puddle_puddle_02.png" dx="3" dy="14" width="149" height="43"></frame>
+	<frame source="sawmill_zoom_water_pump_puddle_puddle_01.png" dx="0" dy="26" width="135" height="31"></frame>
+</animatedImage>

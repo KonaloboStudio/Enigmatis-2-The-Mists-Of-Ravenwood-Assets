@@ -1,0 +1,20 @@
+<animatedImage fps="8" blendframes="0" width="45" height="75">
+	<frame source="ce_zoom_tree_cultist__EX_cultist_1.png" dx="5" dy="0" width="38" height="91"></frame>
+	<frame source="ce_zoom_tree_cultist__EX_cultist_2.png" dx="2" dy="0" width="42" height="91"></frame>
+	<frame source="ce_zoom_tree_cultist__EX_cultist_3.png" dx="0" dy="0" width="45" height="91"></frame>
+	<frame source="ce_zoom_tree_cultist__EX_cultist_3.png" dx="0" dy="0" width="45" height="91"></frame>
+	<frame source="ce_zoom_tree_cultist__EX_cultist_3.png" dx="0" dy="0" width="45" height="91"></frame>
+	<frame source="ce_zoom_tree_cultist__EX_cultist_3.png" dx="0" dy="0" width="45" height="91"></frame>
+	<frame source="ce_zoom_tree_cultist__EX_cultist_3.png" dx="0" dy="0" width="45" height="91"></frame>
+	<frame source="ce_zoom_tree_cultist__EX_cultist_3.png" dx="0" dy="0" width="45" height="91"></frame>
+	<frame source="ce_zoom_tree_cultist__EX_cultist_3.png" dx="0" dy="0" width="45" height="91"></frame>
+	<frame source="ce_zoom_tree_cultist__EX_cultist_3.png" dx="0" dy="0" width="45" height="91"></frame>
+	<frame source="ce_zoom_tree_cultist__EX_cultist_3.png" dx="0" dy="0" width="45" height="91"></frame>
+	<frame source="ce_zoom_tree_cultist__EX_cultist_3.png" dx="0" dy="0" width="45" height="91"></frame>
+	<frame source="ce_zoom_tree_cultist__EX_cultist_3.png" dx="0" dy="0" width="45" height="91"></frame>
+	<frame source="ce_zoom_tree_cultist__EX_cultist_3.png" dx="0" dy="0" width="45" height="91"></frame>
+	<frame source="ce_zoom_tree_cultist__EX_cultist_3.png" dx="0" dy="0" width="45" height="91"></frame>
+	<frame source="ce_zoom_tree_cultist__EX_cultist_3.png" dx="0" dy="0" width="45" height="91"></frame>
+	<frame source="ce_zoom_tree_cultist__EX_cultist_2.png" dx="2" dy="0" width="42" height="91"></frame>
+	<frame source="ce_zoom_tree_cultist__EX_cultist_1.png" dx="5" dy="0" width="38" height="91"></frame>
+</animatedImage>

@@ -1,0 +1,5 @@
+<Sound Pan="0.0" Pitch="1.000" Volume="0.800" Looped="true" Ambient="true">
+	<CSample>
+		<CSampleFile FileName="ambient_Birds_Singing.ogg"/>
+	</CSample>
+</Sound>

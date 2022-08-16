@@ -1,0 +1,7 @@
+<Sound>
+	<CSoundContainer Delay="3.5">
+		<CSample>
+			<CSampleFile FileName="anim_Crossbow_Shot.wav"/>
+		</CSample>
+	</CSoundContainer>
+</Sound>

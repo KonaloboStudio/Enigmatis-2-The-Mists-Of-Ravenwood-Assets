@@ -1,0 +1,10 @@
+<animatedImage fps="24" blendframes="0" width="50" height="51">
+	<frame source="ho_raven_mouse-badger_key_wind-up_07.png" dx="0" dy="7" width="48" height="37"></frame>
+	<frame source="ho_raven_mouse-badger_key_wind-up_06.png" dx="0" dy="2" width="43" height="47"></frame>
+	<frame source="ho_raven_mouse-badger_key_wind-up_05.png" dx="0" dy="0" width="38" height="51"></frame>
+	<frame source="ho_raven_mouse-badger_key_wind-up_04.png" dx="0" dy="1" width="39" height="48"></frame>
+	<frame source="ho_raven_mouse-badger_key_wind-up_03.png" dx="0" dy="6" width="45" height="38"></frame>
+	<frame source="ho_raven_mouse-badger_key_wind-up_02.png" dx="0" dy="11" width="48" height="26"></frame>
+	<frame source="ho_raven_mouse-badger_key_wind-up_01.png" dx="0" dy="11" width="50" height="21"></frame>
+	<frame source="ho_raven_mouse-badger_key_wind-up_00.png" dx="0" dy="11" width="49" height="30"></frame>
+</animatedImage>

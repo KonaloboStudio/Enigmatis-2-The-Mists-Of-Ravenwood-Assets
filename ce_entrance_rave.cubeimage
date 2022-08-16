@@ -1,0 +1,10 @@
+<animatedImage fps="5" blendframes="0" width="137" height="96"> 
+	<frame source="ce_entrance_rave_EX_raven_08.png" dx="15" dy="2" width="122" height="94"></frame>
+	<frame source="ce_entrance_rave_EX_raven_07.png" dx="15" dy="5" width="122" height="91"></frame>
+	<frame source="ce_entrance_rave_EX_raven_06.png" dx="10" dy="5" width="127" height="91"></frame>
+	<frame source="ce_entrance_rave_EX_raven_05.png" dx="5" dy="5" width="132" height="91"></frame>
+	<frame source="ce_entrance_rave_EX_raven_04.png" dx="1" dy="4" width="136" height="92"></frame>
+	<frame source="ce_entrance_rave_EX_raven_03.png" dx="0" dy="3" width="137" height="93"></frame>
+	<frame source="ce_entrance_rave_EX_raven_02.png" dx="2" dy="1" width="135" height="95"></frame>
+	<frame source="ce_entrance_rave_EX_raven_01.png" dx="14" dy="0" width="123" height="96"></frame>
+</animatedImage >

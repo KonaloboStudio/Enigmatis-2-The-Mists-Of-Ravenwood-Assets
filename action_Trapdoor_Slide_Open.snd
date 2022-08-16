@@ -1,0 +1,8 @@
+<!-- Used in Deck(Zoom with rammer). Cutting the rope. Used three times -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_Trapdoor_Slide_Open.wav"></CSampleFile>
+        </CSample>
+
+</Sound>

@@ -1,0 +1,27 @@
+<animatedImage fps="15" blendframes="0" width="66" height="129"> 
+	<frame source="maze_2_EX_right_01.png" dx="1" dy="9" width="59" height="112"></frame>
+	<frame source="maze_2_EX_right_02.png" dx="1" dy="9" width="59" height="111"></frame>
+	<frame source="maze_2_EX_right_03.png" dx="2" dy="7" width="58" height="113"></frame>
+	<frame source="maze_2_EX_right_04.png" dx="2" dy="7" width="58" height="113"></frame>
+	<frame source="maze_2_EX_right_05.png" dx="1" dy="7" width="59" height="114"></frame>
+	<frame source="maze_2_EX_right_01.png" dx="1" dy="9" width="59" height="112"></frame>
+	<frame source="maze_2_EX_right_02.png" dx="1" dy="9" width="59" height="111"></frame>
+	<frame source="maze_2_EX_right_03.png" dx="2" dy="7" width="58" height="113"></frame>
+	<frame source="maze_2_EX_right_04.png" dx="2" dy="7" width="58" height="113"></frame>
+	<frame source="maze_2_EX_right_05.png" dx="1" dy="7" width="59" height="114"></frame>
+	<frame source="maze_2_EX_right_01.png" dx="1" dy="9" width="59" height="112"></frame>
+	<frame source="maze_2_EX_right_02.png" dx="1" dy="9" width="59" height="111"></frame>
+	<frame source="maze_2_EX_right_03.png" dx="2" dy="7" width="58" height="113"></frame>
+	<frame source="maze_2_EX_right_04.png" dx="2" dy="7" width="58" height="113"></frame>
+	<frame source="maze_2_EX_right_05.png" dx="1" dy="7" width="59" height="114"></frame>
+	<frame source="maze_2_EX_right_01.png" dx="1" dy="9" width="59" height="112"></frame>
+	<frame source="maze_2_EX_right_02.png" dx="1" dy="9" width="59" height="111"></frame>
+	<frame source="maze_2_EX_right_03.png" dx="2" dy="7" width="58" height="113"></frame>
+	<frame source="maze_2_EX_right_04.png" dx="2" dy="7" width="58" height="113"></frame>
+	<frame source="maze_2_EX_right_05.png" dx="1" dy="7" width="59" height="114"></frame>
+	<frame source="maze_2_EX_right_01.png" dx="1" dy="9" width="59" height="112"></frame>
+	<frame source="maze_2_EX_right_02.png" dx="1" dy="9" width="59" height="111"></frame>
+	<frame source="maze_2_EX_right_03.png" dx="2" dy="7" width="58" height="113"></frame>
+	<frame source="maze_2_EX_right_04.png" dx="2" dy="7" width="58" height="113"></frame>
+	<frame source="maze_2_EX_right_05.png" dx="1" dy="7" width="59" height="114"></frame>
+</animatedImage >

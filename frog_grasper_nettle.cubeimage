@@ -1,0 +1,5 @@
+<animatedImage fps="6" blendframes="0" width="295" height="272">
+	<frame source="frog_grasper_nettle_nettle_01.png" dx="3" dy="30" width="245" height="242"></frame>
+	<frame source="frog_grasper_nettle_nettle_02.png" dx="2" dy="18" width="227" height="254"></frame>
+	<frame source="frog_grasper_nettle_nettle_03.png" dx="0" dy="25" width="211" height="247"></frame>
+</animatedImage>

@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.820" Volume="0.700" FileName="invoke_scenario_Racoon_Take_Ring.wav"></CSampleFile>
+        </CSample>
+</Sound>

@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="-0.300" Pitch="0.850" Volume="1.000" FileName="invoke_scenario_Move_Wagon.wav"></CSampleFile>
+        </CSample>
+</Sound>

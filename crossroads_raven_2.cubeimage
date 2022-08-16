@@ -1,0 +1,6 @@
+<animatedImage fps="3" blendframes="0" width="85" height="68">
+	<frame source="crossroads_raven_raven_04.png" dx="0" dy="12" width="85" height="56"></frame>
+	<frame source="crossroads_raven_raven_05.png" dx="0" dy="8" width="85" height="60"></frame>
+	<frame source="crossroads_raven_raven_04.png" dx="0" dy="12" width="85" height="56"></frame>
+	<frame source="crossroads_raven_raven_04.png" dx="0" dy="12" width="85" height="56"></frame>
+</animatedImage>

@@ -1,0 +1,18 @@
+<animatedImage fps="10" blendframes="0" width="39" height="72">
+	<frame source="treehouse-sunny_small_worker01.png" dx="0" dy="0" width="36" height="72"></frame>
+	<frame source="treehouse-sunny_small_worker02.png" dx="1" dy="4" width="36" height="66"></frame>
+	<frame source="treehouse-sunny_small_worker03.png" dx="1" dy="5" width="38" height="65"></frame>
+	<frame source="treehouse-sunny_small_worker04.png" dx="1" dy="5" width="38" height="65"></frame>
+	<frame source="treehouse-sunny_small_worker05.png" dx="1" dy="5" width="38" height="65"></frame>
+	<frame source="treehouse-sunny_small_worker04.png" dx="1" dy="5" width="38" height="65"></frame>
+	<frame source="treehouse-sunny_small_worker05.png" dx="1" dy="5" width="38" height="65"></frame>
+	<frame source="treehouse-sunny_small_worker04.png" dx="1" dy="5" width="38" height="65"></frame>
+	<frame source="treehouse-sunny_small_worker05.png" dx="1" dy="5" width="38" height="65"></frame>
+	<frame source="treehouse-sunny_small_worker04.png" dx="1" dy="5" width="38" height="65"></frame>
+	<frame source="treehouse-sunny_small_worker03.png" dx="1" dy="5" width="38" height="65"></frame>
+	<frame source="treehouse-sunny_small_worker02.png" dx="1" dy="4" width="36" height="66"></frame>
+	<frame source="treehouse-sunny_small_worker01.png" dx="0" dy="0" width="36" height="72"></frame>
+	<frame source="treehouse-sunny_small_worker01.png" dx="0" dy="0" width="36" height="72"></frame>
+	<frame source="treehouse-sunny_small_worker01.png" dx="0" dy="0" width="36" height="72"></frame>
+	<frame source="treehouse-sunny_small_worker01.png" dx="0" dy="0" width="36" height="72"></frame>
+</animatedImage>

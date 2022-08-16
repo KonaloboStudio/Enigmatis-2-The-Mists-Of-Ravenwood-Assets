@@ -1,0 +1,50 @@
+<!-- Used in Sacred Place: Cave Entrance. Sound of silent wind in the cave and random wind blow. -->
+
+
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.0" Looped="true" Ambient="true">
+<CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" Looped="true" FileName="ambient_add_Silent_Wind_Cave.wav"></CSampleFile>
+        </CSample>
+</CSequenceContainer>
+
+    		<CRandomContainer Weight="25" Volume="1.0">
+			<CSequenceContainer Weight="2" Volume="1.000">
+			<!-- Single, moderately loud -->
+				<CSample>
+					<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="ambient_add_Silent_Wind_Cave_1.wav"></CSampleFile>
+				</CSample>
+			</CSequenceContainer>
+
+			<CSequenceContainer Weight="3" Volume="1.000">
+			<!-- Double, moderately loud -->
+				<CSample>
+					<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="ambient_add_Silent_Wind_Cave_3.wav"></CSampleFile>
+				</CSample>
+				<CSample>
+					<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="ambient_add_Silent_Wind_Cave_2.wav"></CSampleFile>
+				</CSample>
+			</CSequenceContainer>
+
+			<CSequenceContainer Weight="1" Volume="1.000">
+			<!-- Triple, moderately silent -->
+				<CSample>
+					<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="ambient_add_Silent_Wind_Cave_4.wav"></CSampleFile>
+				</CSample>
+				<CSample>
+					<CSampleFile Pan="0.000" Pitch="0.95" Volume="1.000" FileName="ambient_add_Silent_Wind_Cave_2.wav"></CSampleFile>
+				</CSample>
+				<CSample>
+					<CSampleFile Pan="0.100" Pitch="0.98" Volume="1.000" FileName="ambient_add_Silent_Wind_Cave_3.wav"></CSampleFile>
+				</CSample>
+			</CSequenceContainer>
+
+			<CSequenceContainer Weight="2" Volume="1.0">
+			<!-- Single, loud -->
+				<CSample>
+					<CSampleFile Pan="0.000" Pitch="0.9" Volume="1.000" FileName="ambient_add_Silent_Wind_Cave_1.wav"></CSampleFile>
+				</CSample>
+			</CSequenceContainer>
+		</CRandomContainer>
+</Sound>

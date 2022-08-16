@@ -1,0 +1,6 @@
+<animatedImage fps="18" blendframes="0" width="136" height="91"> 
+	<frame source="bat_01.png" dx="14" dy="18" width="110" height="51"></frame>
+	<frame source="bat_02.png" dx="18" dy="0" width="102" height="69"></frame>
+	<frame source="bat_03.png" dx="0" dy="30" width="136" height="39"></frame>
+	<frame source="bat_04.png" dx="13" dy="34" width="111" height="57"></frame>
+</animatedImage >

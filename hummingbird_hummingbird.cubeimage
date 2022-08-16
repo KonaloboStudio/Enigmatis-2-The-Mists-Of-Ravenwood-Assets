@@ -1,0 +1,4 @@
+<animatedImage fps="30" blendframes="0" width="86" height="94">
+	<frame source="hummingbird_hummingbird_01.png" dx="0" dy="0" width="86" height="89"></frame>
+	<frame source="hummingbird_hummingbird_02.png" dx="0" dy="0" width="86" height="94"></frame>
+</animatedImage>

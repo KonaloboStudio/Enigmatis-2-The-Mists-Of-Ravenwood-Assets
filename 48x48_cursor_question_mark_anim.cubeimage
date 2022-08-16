@@ -1,0 +1,8 @@
+<animatedImage fps="6" blendframes="0">
+	<frame source="48x48_cursor_question_mark_anim001.png"></frame>
+	<frame source="48x48_cursor_question_mark_anim002.png"></frame>
+	<frame source="48x48_cursor_question_mark_anim003.png"></frame>
+	<frame source="48x48_cursor_question_mark_anim004.png"></frame>
+	<frame source="48x48_cursor_question_mark_anim003.png"></frame>
+	<frame source="48x48_cursor_question_mark_anim002.png"></frame>
+</animatedImage>

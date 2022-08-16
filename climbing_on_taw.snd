@@ -1,0 +1,7 @@
+<!-- Used in Village: Garden, Balcony. PC climbs on taw. -->
+
+<Sound Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="climbing_up_down_on_a_taw.wav"></CSampleFile>
+        </CSample>
+</Sound>

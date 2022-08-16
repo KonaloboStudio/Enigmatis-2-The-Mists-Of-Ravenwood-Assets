@@ -1,0 +1,9 @@
+<!-- Used in MainRoad: Crossroads. Inserting the Car Keys into PC Car Trunk. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" FileName="137_Car_Keys_Insert.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

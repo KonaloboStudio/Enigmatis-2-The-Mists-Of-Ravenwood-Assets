@@ -1,0 +1,5 @@
+<animatedImage fps="3" blendframes="1" width="57" height="46">
+	<frame source="crossroads-sunny_wheel_003.png" dx="0" dy="0" width="57" height="46"></frame>
+	<frame source="crossroads-sunny_wheel_002.png" dx="0" dy="0" width="57" height="46"></frame>
+	<frame source="crossroads-sunny_wheel_001.png" dx="0" dy="0" width="57" height="46"></frame>
+</animatedImage>

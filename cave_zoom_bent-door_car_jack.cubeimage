@@ -1,0 +1,10 @@
+<animatedImage fps="14" blendframes="0" width="311" height="243">
+	<frame source="cave_zoom_bent-door_car_jack_Car_Jack_4.png" dx="50" dy="0" width="261" height="193"></frame>
+	<frame source="cave_zoom_bent-door_car_jack_Car_Jack_3.png" dx="38" dy="15" width="211" height="228"></frame>
+	<frame source="cave_zoom_bent-door_car_jack_Car_Jack_3.png" dx="38" dy="15" width="211" height="228"></frame>
+	<frame source="cave_zoom_bent-door_car_jack_Car_Jack_2.png" dx="20" dy="18" width="274" height="183"></frame>
+	<frame source="cave_zoom_bent-door_car_jack_Car_Jack_2.png" dx="20" dy="18" width="274" height="183"></frame>
+	<frame source="cave_zoom_bent-door_car_jack_Car_Jack_2.png" dx="20" dy="18" width="274" height="183"></frame>
+	<frame source="cave_zoom_bent-door_car_jack_Car_Jack_2.png" dx="20" dy="18" width="274" height="183"></frame>
+	<frame source="cave_zoom_bent-door_car_jack_Car_Jack_1.png" dx="0" dy="23" width="242" height="182"></frame>
+</animatedImage>

@@ -1,0 +1,17 @@
+<!-- Additional ambient sound for Turret location - some more wind
+
+- MainRoad.LookoutTower.Turret
+
+-->
+
+<Sound Volume="0.75" DelayMin="2" DelayMax="6" WaitAfterMin="6" WaitAfterMax="12" Looped="True" Ambient="true">
+  	    <CRandomContainer Weight="5" Volume="0.5" FadeInTime="1.0" FadeOutTime="1.0">
+		<!-- Wind /wo Leafs -->
+           <CSample Weight="1">
+		      <CSampleFile Pan="0.000" Pitch="0.500" FileName="wind_no_leafs.wav"></CSampleFile>
+		   </CSample>
+           <CSample Weight="1">
+		      <CSampleFile Pan="0.000" Pitch="0.500" FileName="wind_no_leafs_2.wav"></CSampleFile>
+		   </CSample>
+        </CRandomContainer>
+</Sound>

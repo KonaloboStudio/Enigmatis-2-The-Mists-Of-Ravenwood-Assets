@@ -1,0 +1,4 @@
+<animatedImage fps="10" blendframes="0" width="35" height="32">
+	<frame source="ce_rootmaze_bug_bug_01.png" dx="0" dy="0" width="34" height="32"></frame>
+	<frame source="ce_rootmaze_bug_bug_02.png" dx="1" dy="0" width="34" height="32"></frame>
+</animatedImage>

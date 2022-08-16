@@ -1,0 +1,49 @@
+<!-- Additional ambient for more birds. Played in outdoor locations.
+
+- MainRoad.Tower.Base
+- MainRoad.FallenTreeAndBridge
+- MainRoad.GasStation
+- MainRoad.MapleCreekTree
+- Mansion.FrontDoor
+- Hut.Statue
+- Hut.Outdoor
+- LakeHouse.Surroundings
+- LakeHouse.Shore
+- LakeHouse.SacredPlace
+
+-->
+
+<Sound Pan="0.0" Pitch="1.000" Volume="0.75" Looped="true" Ambient="true">
+    <CRandomContainer DelayMin="5" DelayMax="10" WaitAfterMin="3" WaitAfterMax="6">
+  	    
+		<CRandomContainer Weight="15" Volume="1.0">
+		<!-- Birds: Owl -->
+		   <CSample>
+              <CSampleFile FileName="15_Bird_2_3.wav"></CSampleFile>
+           </CSample>
+		   <CSample>
+              <CSampleFile FileName="15_Bird_2_1.wav"></CSampleFile>
+           </CSample>
+		   <CSample>
+              <CSampleFile FileName="15_Bird_2_2.wav"></CSampleFile>
+           </CSample>
+		</CRandomContainer>
+		
+		<CRandomContainer Weight="15" Volume="0.8">
+		<!-- Birds: Other -->
+	       <CSample>
+              <CSampleFile FileName="bird_1.wav"></CSampleFile>
+           </CSample>
+	       <CSample>
+              <CSampleFile FileName="14_Bird_1_2.wav"></CSampleFile>
+           </CSample>
+		   <CSample>
+              <CSampleFile FileName="14_Bird_1_3.wav"></CSampleFile>
+           </CSample>
+		   <CSample>
+              <CSampleFile FileName="14_Bird_1_5.wav"></CSampleFile>
+           </CSample>
+		</CRandomContainer>
+		
+    </CRandomContainer>
+</Sound>

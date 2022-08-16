@@ -1,0 +1,7 @@
+<animatedImage fps="8" blendframes="0" width="92" height="213">
+	<frame source="highway_mini-zoom_camper-door_keys1.png" dx="12" dy="2" width="80" height="211"></frame>
+	<frame source="highway_mini-zoom_camper-door_keys2.png" dx="10" dy="1" width="81" height="207"></frame>
+	<frame source="highway_mini-zoom_camper-door_keys3.png" dx="9" dy="0" width="80" height="201"></frame>
+	<frame source="highway_mini-zoom_camper-door_keys4.png" dx="3" dy="3" width="87" height="192"></frame>
+	<frame source="highway_mini-zoom_camper-door_keys5.png" dx="0" dy="3" width="91" height="189"></frame>
+</animatedImage>

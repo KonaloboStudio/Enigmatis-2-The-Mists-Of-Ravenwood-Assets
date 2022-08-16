@@ -1,0 +1,11 @@
+<animatedImage fps="24" blendframes="0" width="129" height="97">
+	<frame source="mini-zoom_mouse-toy_unscrew_screwdriver_02.png" dx="0" dy="2" width="129" height="95"></frame>
+	<frame source="mini-zoom_mouse-toy_unscrew_screwdriver_01.png" dx="0" dy="2" width="129" height="95"></frame>
+	<frame source="mini-zoom_mouse-toy_unscrew_screwdriver_00.png" dx="0" dy="0" width="129" height="97"></frame>
+	<frame source="mini-zoom_mouse-toy_unscrew_screwdriver_02.png" dx="0" dy="2" width="129" height="95"></frame>
+	<frame source="mini-zoom_mouse-toy_unscrew_screwdriver_01.png" dx="0" dy="2" width="129" height="95"></frame>
+	<frame source="mini-zoom_mouse-toy_unscrew_screwdriver_00.png" dx="0" dy="0" width="129" height="97"></frame>
+	<frame source="mini-zoom_mouse-toy_unscrew_screwdriver_02.png" dx="0" dy="2" width="129" height="95"></frame>
+	<frame source="mini-zoom_mouse-toy_unscrew_screwdriver_01.png" dx="0" dy="2" width="129" height="95"></frame>
+	<frame source="mini-zoom_mouse-toy_unscrew_screwdriver_00.png" dx="0" dy="0" width="129" height="97"></frame>
+</animatedImage>

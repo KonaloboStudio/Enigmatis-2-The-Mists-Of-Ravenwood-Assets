@@ -1,0 +1,5 @@
+<animatedImage fps="15" blendframes="0" width="56" height="69"> 
+	<frame source="ce_maze_sceleton_01.png" dx="1" dy="0" width="23" height="32"></frame>
+	<frame source="ce_maze_sceleton_02.png" dx="0" dy="5" width="46" height="56"></frame>
+	<frame source="ce_maze_sceleton_03.png" dx="4" dy="15" width="52" height="54"></frame>
+</animatedImage >

@@ -1,0 +1,22 @@
+<animatedImage fps="9" blendframes="0" width="187" height="131">
+	<frame source="tunel_zoom_crate_EX_rat_stand01.png" dx="0" dy="2" width="187" height="129"></frame>
+	<frame source="tunel_zoom_crate_EX_rat_stand02.png" dx="0" dy="14" width="187" height="117"></frame>
+	<frame source="tunel_zoom_crate_EX_rat_stand03.png" dx="0" dy="2" width="187" height="129"></frame>
+	<frame source="tunel_zoom_crate_EX_rat_stand04.png" dx="0" dy="0" width="187" height="131"></frame>
+	<frame source="tunel_zoom_crate_EX_rat_stand05.png" dx="0" dy="0" width="187" height="131"></frame>
+	<frame source="tunel_zoom_crate_EX_rat_stand06.png" dx="0" dy="0" width="187" height="131"></frame>
+	<frame source="tunel_zoom_crate_EX_rat_stand05.png" dx="0" dy="0" width="187" height="131"></frame>
+	<frame source="tunel_zoom_crate_EX_rat_stand06.png" dx="0" dy="0" width="187" height="131"></frame>
+	<frame source="tunel_zoom_crate_EX_rat_stand05.png" dx="0" dy="0" width="187" height="131"></frame>
+	<frame source="tunel_zoom_crate_EX_rat_stand04.png" dx="0" dy="0" width="187" height="131"></frame>
+	<frame source="tunel_zoom_crate_EX_rat_stand03.png" dx="0" dy="2" width="187" height="129"></frame>
+	<frame source="tunel_zoom_crate_EX_rat_stand02.png" dx="0" dy="14" width="187" height="117"></frame>
+	<frame source="tunel_zoom_crate_EX_rat_stand01.png" dx="0" dy="2" width="187" height="129"></frame>
+	<frame source="tunel_zoom_crate_EX_rat_stand01.png" dx="0" dy="2" width="187" height="129"></frame>
+	<frame source="tunel_zoom_crate_EX_rat_stand01.png" dx="0" dy="2" width="187" height="129"></frame>
+	<frame source="tunel_zoom_crate_EX_rat_stand01.png" dx="0" dy="2" width="187" height="129"></frame>
+	<frame source="tunel_zoom_crate_EX_rat_stand02.png" dx="0" dy="14" width="187" height="117"></frame>
+	<frame source="tunel_zoom_crate_EX_rat_stand01.png" dx="0" dy="2" width="187" height="129"></frame>
+	<frame source="tunel_zoom_crate_EX_rat_stand02.png" dx="0" dy="14" width="187" height="117"></frame>
+	<frame source="tunel_zoom_crate_EX_rat_stand01.png" dx="0" dy="2" width="187" height="129"></frame>
+</animatedImage>

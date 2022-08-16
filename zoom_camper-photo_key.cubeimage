@@ -1,0 +1,10 @@
+<animatedImage fps="13" blendframes="0" width="72" height="77">
+	<frame source="zoom_camper-photo_key_key_01.png" dx="13" dy="21" width="58" height="56"></frame>
+	<frame source="zoom_camper-photo_key_key_02.png" dx="10" dy="21" width="62" height="50"></frame>
+	<frame source="zoom_camper-photo_key_key_03.png" dx="3" dy="23" width="43" height="39"></frame>
+	<frame source="zoom_camper-photo_key_key_04.png" dx="0" dy="17" width="49" height="41"></frame>
+	<frame source="zoom_camper-photo_key_key_05.png" dx="1" dy="2" width="48" height="57"></frame>
+	<frame source="zoom_camper-photo_key_key_06.png" dx="13" dy="0" width="33" height="50"></frame>
+	<frame source="zoom_camper-photo_key_key_07.png" dx="25" dy="14" width="26" height="30"></frame>
+	<frame source="zoom_camper-photo_key_key_08.png" dx="29" dy="22" width="22" height="13"></frame>
+</animatedImage>

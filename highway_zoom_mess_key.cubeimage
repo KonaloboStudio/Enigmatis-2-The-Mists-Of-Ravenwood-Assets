@@ -1,0 +1,8 @@
+<animatedImage fps="10" blendframes="0" width="127" height="115">
+	<frame source="highway_zoom_mess_key_Key01.png" dx="0" dy="23" width="127" height="92"></frame>
+	<frame source="highway_zoom_mess_key_Key02.png" dx="4" dy="26" width="123" height="87"></frame>
+	<frame source="highway_zoom_mess_key_Key03.png" dx="4" dy="17" width="122" height="96"></frame>
+	<frame source="highway_zoom_mess_key_Key04.png" dx="14" dy="12" width="106" height="90"></frame>
+	<frame source="highway_zoom_mess_key_Key05.png" dx="28" dy="9" width="84" height="69"></frame>
+	<frame source="highway_zoom_mess_key_Key06.png" dx="36" dy="0" width="80" height="77"></frame>
+</animatedImage>

@@ -1,0 +1,6 @@
+<animatedImage fps="6" blendframes="0" width="255" height="234">
+	<frame source="chamber_frog_broken-statue_flora01.png" dx="0" dy="1" width="255" height="233"></frame>
+	<frame source="chamber_frog_broken-statue_flora02.png" dx="5" dy="2" width="248" height="216"></frame>
+	<frame source="chamber_frog_broken-statue_flora03.png" dx="7" dy="2" width="243" height="216"></frame>
+	<frame source="chamber_frog_broken-statue_flora04.png" dx="8" dy="0" width="238" height="231"></frame>
+</animatedImage>

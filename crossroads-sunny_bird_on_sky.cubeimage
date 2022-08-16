@@ -1,0 +1,11 @@
+<animatedImage fps="5" blendframes="0" width="50" height="31">
+	<frame source="crossroads-sunny_bird_on_sky_3.png" dx="0" dy="0" width="50" height="28"></frame>
+	<frame source="crossroads-sunny_bird_on_sky_2.png" dx="2" dy="7" width="40" height="24"></frame>
+	<frame source="crossroads-sunny_bird_on_sky_1.png" dx="2" dy="10" width="35" height="17"></frame>
+	<frame source="crossroads-sunny_bird_on_sky_2.png" dx="2" dy="7" width="40" height="24"></frame>
+	<frame source="crossroads-sunny_bird_on_sky_3.png" dx="0" dy="0" width="50" height="28"></frame>
+	<frame source="crossroads-sunny_bird_on_sky_3.png" dx="0" dy="0" width="50" height="28"></frame>
+	<frame source="crossroads-sunny_bird_on_sky_3.png" dx="0" dy="0" width="50" height="28"></frame>
+	<frame source="crossroads-sunny_bird_on_sky_3.png" dx="0" dy="0" width="50" height="28"></frame>
+	<frame source="crossroads-sunny_bird_on_sky_3.png" dx="0" dy="0" width="50" height="28"></frame>
+</animatedImage >

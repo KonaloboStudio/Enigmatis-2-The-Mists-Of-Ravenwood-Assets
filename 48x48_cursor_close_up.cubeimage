@@ -1,0 +1,15 @@
+<animatedImage fps="13" blendframes="0" width="48" height="48">
+    <frame source="48x48_cursor_close_up_anim_001.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_cursor_close_up_anim_002.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_cursor_close_up_anim_003.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_cursor_close_up_anim_004.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_cursor_close_up_anim_005.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_cursor_close_up_anim_006.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_cursor_close_up_anim_007.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_cursor_close_up_anim_008.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_cursor_close_up_anim_009.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_cursor_close_up_anim_010.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_cursor_close_up_anim_011.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_cursor_close_up_anim_012.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_cursor_close_up_anim_013.png" dx="0" dy="0" width="48" height="48" />
+</animatedImage>

@@ -1,0 +1,10 @@
+<animatedImage fps="8" blendframes="0" width="233" height="281">
+	<frame source="descent_root_mg_EX_root_mg_000.png" dx="0" dy="23" width="200" height="258"></frame>
+	<frame source="descent_root_mg_EX_root_mg_001.png" dx="13" dy="25" width="174" height="236"></frame>
+	<frame source="descent_root_mg_EX_root_mg_002.png" dx="20" dy="24" width="172" height="217"></frame>
+	<frame source="descent_root_mg_EX_root_mg_003.png" dx="37" dy="0" width="153" height="207"></frame>
+	<frame source="descent_root_mg_EX_root_mg_004.png" dx="24" dy="17" width="191" height="180"></frame>
+	<frame source="descent_root_mg_EX_root_mg_005.png" dx="40" dy="13" width="171" height="168"></frame>
+	<frame source="descent_root_mg_EX_root_mg_006.png" dx="63" dy="13" width="163" height="130"></frame>
+	<frame source="descent_root_mg_EX_root_mg_007.png" dx="85" dy="14" width="148" height="115"></frame>
+</animatedImage>

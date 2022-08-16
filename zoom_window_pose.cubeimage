@@ -1,0 +1,6 @@
+<animatedImage fps="5" blendframes="0" width="70" height="186">
+	<frame source="zoom_window_pose_pose_04.png" dx="8" dy="23" width="61" height="128"></frame>
+	<frame source="zoom_window_pose_pose_03.png" dx="6" dy="22" width="64" height="132"></frame>
+	<frame source="zoom_window_pose_pose_02.png" dx="0" dy="10" width="67" height="176"></frame>
+	<frame source="zoom_window_pose_pose_01.png" dx="1" dy="0" width="59" height="145"></frame>
+</animatedImage>

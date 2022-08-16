@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="2.000" Looped="false" >
+	<CSample>
+		<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="VO_TREEHOUSE_COMPARE_BUTTERFLY_PHOTO_TEXT_1.wav"></CSampleFile>
+	</CSample>
+</Sound>

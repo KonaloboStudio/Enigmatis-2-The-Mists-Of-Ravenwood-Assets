@@ -1,0 +1,9 @@
+<animatedImage fps="10" blendframes="1" width="112" height="132">
+	<frame source="zoom_crane-engine_lever_lever_001.png" dx="26" dy="0" width="73" height="82"></frame>
+	<frame source="zoom_crane-engine_lever_lever_002.png" dx="9" dy="31" width="76" height="68"></frame>
+	<frame source="zoom_crane-engine_lever_lever_003.png" dx="0" dy="74" width="84" height="43"></frame>
+	<frame source="zoom_crane-engine_lever_lever_003.png" dx="0" dy="74" width="84" height="43"></frame>
+	<frame source="zoom_crane-engine_lever_lever_003.png" dx="0" dy="74" width="84" height="43"></frame>
+	<frame source="zoom_crane-engine_lever_lever_002.png" dx="9" dy="31" width="76" height="68"></frame>
+	<frame source="zoom_crane-engine_lever_lever_001.png" dx="26" dy="0" width="73" height="82"></frame>
+</animatedImage>

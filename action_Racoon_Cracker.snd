@@ -1,0 +1,11 @@
+<!-- Used in Square location. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false"  Ambient="true">
+    <CRandomContainer DelayMin="0" DelayMax="0">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.0" FileName="action_Racoon_Cracker_1.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.0" FileName="action_Racoon_Cracker_2.wav"></CSampleFile>
+        </CSample>       </CRandomContainer>
+</Sound>

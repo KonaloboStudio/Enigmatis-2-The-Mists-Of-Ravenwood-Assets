@@ -1,0 +1,11 @@
+<animatedImage fps="30" blendframes="0" width="164" height="122">
+	<frame source="main-menu_butterfly_4.png" dx="45" dy="0" width="77" height="84"></frame>
+	<frame source="main-menu_butterfly_3.png" dx="43" dy="1" width="92" height="81"></frame>
+	<frame source="main-menu_butterfly_2.png" dx="30" dy="13" width="120" height="69"></frame>
+	<frame source="main-menu_butterfly_1.png" dx="24" dy="29" width="133" height="55"></frame>
+	<frame source="main-menu_butterfly_0.png" dx="24" dy="42" width="140" height="46"></frame>
+	<frame source="main-menu_butterfly_1.png" dx="24" dy="29" width="133" height="55"></frame>
+	<frame source="main-menu_butterfly_2.png" dx="30" dy="13" width="120" height="69"></frame>
+	<frame source="main-menu_butterfly_3.png" dx="43" dy="1" width="92" height="81"></frame>
+	<frame source="main-menu_butterfly_4.png" dx="45" dy="0" width="77" height="84"></frame>
+</animatedImage>

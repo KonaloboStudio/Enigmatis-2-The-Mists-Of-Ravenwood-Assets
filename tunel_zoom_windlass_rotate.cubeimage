@@ -1,0 +1,17 @@
+<animatedImage fps="15" blendframes="0" width="361" height="480">
+	<frame source="tunel_zoom_windlass_01.png" dx="11" dy="0" width="350" height="469"></frame>
+	<frame source="tunel_zoom_windlass_02.png" dx="12" dy="0" width="349" height="472"></frame>
+	<frame source="tunel_zoom_windlass_03.png" dx="3" dy="0" width="358" height="470"></frame>
+	<frame source="tunel_zoom_windlass_04.png" dx="0" dy="0" width="361" height="463"></frame>
+	<frame source="tunel_zoom_windlass_EX_05.png" dx="2" dy="0" width="359" height="461"></frame>
+	<frame source="tunel_zoom_windlass_01.png" dx="11" dy="0" width="350" height="469"></frame>
+	<frame source="tunel_zoom_windlass_02.png" dx="12" dy="0" width="349" height="472"></frame>
+	<frame source="tunel_zoom_windlass_03.png" dx="3" dy="0" width="358" height="470"></frame>
+	<frame source="tunel_zoom_windlass_04.png" dx="0" dy="0" width="361" height="463"></frame>
+	<frame source="tunel_zoom_windlass_EX_05.png" dx="2" dy="0" width="359" height="461"></frame>
+	<frame source="tunel_zoom_windlass_01.png" dx="11" dy="0" width="350" height="469"></frame>
+	<frame source="tunel_zoom_windlass_02.png" dx="12" dy="0" width="349" height="472"></frame>
+	<frame source="tunel_zoom_windlass_03.png" dx="3" dy="0" width="358" height="470"></frame>
+	<frame source="tunel_zoom_windlass_04.png" dx="0" dy="0" width="361" height="463"></frame>
+	<frame source="tunel_zoom_windlass_EX_05.png" dx="2" dy="0" width="359" height="461"></frame>
+</animatedImage>

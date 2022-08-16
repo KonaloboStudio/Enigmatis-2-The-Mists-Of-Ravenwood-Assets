@@ -1,0 +1,10 @@
+<animatedImage fps="5" blendframes="0" width="248" height="255"> 
+	<frame source="ce_zoom_tree_rave_EX_raven_8.png" dx="11" dy="21" width="245" height="234"></frame>
+	<frame source="ce_zoom_tree_rave_EX_raven_7.png" dx="11" dy="28" width="242" height="227"></frame>
+	<frame source="ce_zoom_tree_rave_EX_raven_6.png" dx="11" dy="25" width="235" height="230"></frame>
+	<frame source="ce_zoom_tree_rave_EX_raven_5.png" dx="0" dy="11" width="233" height="244"></frame>
+	<frame source="ce_zoom_tree_rave_EX_raven_4.png" dx="0" dy="4" width="210" height="251"></frame>
+	<frame source="ce_zoom_tree_rave_EX_raven_3.png" dx="1" dy="0" width="208" height="255"></frame>
+	<frame source="ce_zoom_tree_rave_EX_raven_2.png" dx="0" dy="0" width="222" height="255"></frame>
+	<frame source="ce_zoom_tree_rave_EX_raven_1.png" dx="11" dy="11" width="241" height="244"></frame>
+</animatedImage >

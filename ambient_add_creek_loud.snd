@@ -1,0 +1,12 @@
+<!-- Not used currenly -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="true" Ambient="true">
+    <CSoundContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Weight="3" Pitch="1.000" Volume="0.800" FileName="22_Creek_Flow.wav"></CSampleFile>
+        </CSample>
+		<CSample>
+           <CSampleFile Pan="0.000" Weight="1" Pitch="1.000" Volume="1.000" FileName="23_Plunge.wav"></CSampleFile>
+        </CSample>
+    </CSoundContainer>
+</Sound>

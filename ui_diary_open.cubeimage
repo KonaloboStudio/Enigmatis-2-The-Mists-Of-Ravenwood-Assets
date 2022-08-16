@@ -1,0 +1,18 @@
+<animatedImage fps="32" blendframes="0" width="134" height="154">
+	<frame source="ui_diary_anim_frame_001.png" dx="0" dy="0" width="134" height="154"></frame>
+	<frame source="ui_diary_anim_frame_002.png" dx="0" dy="0" width="134" height="154"></frame>
+	<frame source="ui_diary_anim_frame_003.png" dx="0" dy="0" width="134" height="154"></frame>
+	<frame source="ui_diary_anim_frame_004.png" dx="0" dy="0" width="134" height="154"></frame>
+	<frame source="ui_diary_anim_frame_005.png" dx="0" dy="0" width="134" height="154"></frame>
+	<frame source="ui_diary_anim_frame_006.png" dx="0" dy="0" width="134" height="154"></frame>
+	<frame source="ui_diary_anim_frame_007.png" dx="0" dy="0" width="134" height="154"></frame>
+	<frame source="ui_diary_anim_frame_008.png" dx="0" dy="0" width="134" height="154"></frame>
+	<frame source="ui_diary_anim_frame_009.png" dx="0" dy="0" width="134" height="154"></frame>
+	<frame source="ui_diary_anim_frame_010.png" dx="0" dy="0" width="134" height="154"></frame>
+	<frame source="ui_diary_anim_frame_011.png" dx="0" dy="0" width="134" height="154"></frame>
+	<frame source="ui_diary_anim_frame_012.png" dx="0" dy="0" width="134" height="154"></frame>
+	<frame source="ui_diary_anim_frame_013.png" dx="0" dy="0" width="134" height="154"></frame>
+	<frame source="ui_diary_anim_frame_014.png" dx="0" dy="0" width="134" height="154"></frame>
+	<frame source="ui_diary_anim_frame_015.png" dx="0" dy="0" width="134" height="154"></frame>
+	<frame source="ui_diary_anim_frame_016.png" dx="0" dy="0" width="134" height="154"></frame>
+</animatedImage>

@@ -1,0 +1,5 @@
+<Sound Delay="0.8">
+	<CSample>
+		<CSampleFile FileName="action_Cut_Rope_With_Knife.wav"/>
+	</CSample>
+</Sound>

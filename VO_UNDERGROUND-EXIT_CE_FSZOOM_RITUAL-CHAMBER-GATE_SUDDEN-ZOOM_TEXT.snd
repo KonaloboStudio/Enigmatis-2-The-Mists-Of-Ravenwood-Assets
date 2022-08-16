@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="VO_UNDERGROUND-EXIT_CE_FSZOOM_RITUAL-CHAMBER-GATE_SUDDEN-ZOOM_TEXT.wav"></CSampleFile>
+        </CSample>
+</Sound>

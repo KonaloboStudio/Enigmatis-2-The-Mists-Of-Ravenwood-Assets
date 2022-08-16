@@ -1,0 +1,12 @@
+<animatedImage fps="8" blendframes="0" width="99" height="68">
+	<frame source="ihos_chapel_key_10.png" dx="18" dy="5" width="72" height="63"></frame>
+	<frame source="ihos_chapel_key_9.png" dx="4" dy="0" width="88" height="65"></frame>
+	<frame source="ihos_chapel_key_8.png" dx="17" dy="11" width="78" height="48"></frame>
+	<frame source="ihos_chapel_key_7.png" dx="18" dy="18" width="80" height="34"></frame>
+	<frame source="ihos_chapel_key_6.png" dx="12" dy="17" width="87" height="28"></frame>
+	<frame source="ihos_chapel_key_5.png" dx="10" dy="15" width="89" height="37"></frame>
+	<frame source="ihos_chapel_key_4.png" dx="11" dy="16" width="87" height="43"></frame>
+	<frame source="ihos_chapel_key_3.png" dx="0" dy="13" width="94" height="52"></frame>
+	<frame source="ihos_chapel_key_2.png" dx="4" dy="10" width="86" height="58"></frame>
+	<frame source="ihos_chapel_key_1.png" dx="9" dy="10" width="79" height="58"></frame>
+</animatedImage>

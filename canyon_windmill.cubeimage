@@ -1,0 +1,25 @@
+<animatedImage fps="18" blendframes="0" width="77" height="69">
+	<frame source="canyon_windmill_canyon_windmill_22.png" dx="1" dy="1" width="75" height="67"></frame>
+	<frame source="canyon_windmill_canyon_windmill_21.png" dx="1" dy="1" width="75" height="67"></frame>
+	<frame source="canyon_windmill_canyon_windmill_20.png" dx="1" dy="0" width="75" height="68"></frame>
+	<frame source="canyon_windmill_canyon_windmill_19.png" dx="1" dy="0" width="75" height="68"></frame>
+	<frame source="canyon_windmill_canyon_windmill_18.png" dx="0" dy="0" width="76" height="68"></frame>
+	<frame source="canyon_windmill_canyon_windmill_17.png" dx="0" dy="0" width="75" height="68"></frame>
+	<frame source="canyon_windmill_canyon_windmill_16.png" dx="0" dy="0" width="75" height="68"></frame>
+	<frame source="canyon_windmill_canyon_windmill_15.png" dx="0" dy="0" width="75" height="68"></frame>
+	<frame source="canyon_windmill_canyon_windmill_14.png" dx="0" dy="0" width="75" height="68"></frame>
+	<frame source="canyon_windmill_canyon_windmill_13.png" dx="0" dy="1" width="75" height="67"></frame>
+	<frame source="canyon_windmill_canyon_windmill_12.png" dx="0" dy="1" width="74" height="67"></frame>
+	<frame source="canyon_windmill_canyon_windmill_11.png" dx="0" dy="1" width="75" height="67"></frame>
+	<frame source="canyon_windmill_canyon_windmill_10.png" dx="0" dy="0" width="75" height="68"></frame>
+	<frame source="canyon_windmill_canyon_windmill_09.png" dx="0" dy="0" width="75" height="68"></frame>
+	<frame source="canyon_windmill_canyon_windmill_08.png" dx="0" dy="0" width="75" height="68"></frame>
+	<frame source="canyon_windmill_canyon_windmill_07.png" dx="0" dy="0" width="76" height="68"></frame>
+	<frame source="canyon_windmill_canyon_windmill_06.png" dx="1" dy="0" width="75" height="68"></frame>
+	<frame source="canyon_windmill_canyon_windmill_05.png" dx="1" dy="0" width="75" height="68"></frame>
+	<frame source="canyon_windmill_canyon_windmill_04.png" dx="1" dy="0" width="75" height="68"></frame>
+	<frame source="canyon_windmill_canyon_windmill_03.png" dx="1" dy="0" width="75" height="69"></frame>
+	<frame source="canyon_windmill_canyon_windmill_02.png" dx="1" dy="1" width="76" height="68"></frame>
+	<frame source="canyon_windmill_canyon_windmill_01.png" dx="1" dy="1" width="76" height="67"></frame>
+	<frame source="canyon_windmill_canyon_windmill_00.png" dx="1" dy="1" width="76" height="67"></frame>
+</animatedImage>

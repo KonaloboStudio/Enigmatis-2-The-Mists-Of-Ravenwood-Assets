@@ -1,0 +1,6 @@
+<animatedImage fps="2" blendframes="0">
+	<frame source="tomb_ho_grave_0hidingplace01.png"></frame>
+	<frame source="tomb_ho_grave_0hidingplace02.png"></frame>
+	<frame source="tomb_ho_grave_0hidingplace03.png"></frame>
+	<frame source="tomb_ho_grave_0hidingplace04.png"></frame>
+</animatedImage>

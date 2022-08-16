@@ -1,0 +1,19 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.00" Looped="false"  Ambient="true">
+    
+<CRandomContainer>
+        
+<CSample>
+           
+<CSampleFile Pan="0.000" Pitch="0.870" Volume="1.000" FileName="minigame_Tools_Drop_1.wav"></CSampleFile>
+        
+</CSample>
+		
+<CSample>
+           
+<CSampleFile Pan="0.000" Pitch="0.870" Volume="1.000" FileName="minigame_Tools_Drop_2.wav"></CSampleFile>
+        
+</CSample>
+		
+ </CRandomContainer>
+
+</Sound>

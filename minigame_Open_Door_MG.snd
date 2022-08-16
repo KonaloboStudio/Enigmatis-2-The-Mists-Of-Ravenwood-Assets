@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.700" Volume="0.800" FileName="minigame_Open_Door_MG.wav"></CSampleFile>
+        </CSample>
+</Sound>

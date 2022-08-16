@@ -1,0 +1,10 @@
+<animatedImage fps="11" blendframes="0" width="51" height="24">
+	<frame source="ho_little_people_eyes_EX_0eyes1.png" dx="0" dy="0" width="51" height="24"></frame>
+	<frame source="ho_little_people_eyes_EX_0eyes2.png" dx="0" dy="0" width="51" height="24"></frame>
+	<frame source="ho_little_people_eyes_EX_0eyes2.png" dx="0" dy="0" width="51" height="24"></frame>
+	<frame source="ho_little_people_eyes_EX_0eyes2.png" dx="0" dy="0" width="51" height="24"></frame>
+	<frame source="ho_little_people_eyes_EX_0eyes2.png" dx="0" dy="0" width="51" height="24"></frame>
+	<frame source="ho_little_people_eyes_EX_0eyes2.png" dx="0" dy="0" width="51" height="24"></frame>
+	<frame source="ho_little_people_eyes_EX_0eyes2.png" dx="0" dy="0" width="51" height="24"></frame>
+	<frame source="ho_little_people_eyes_EX_0eyes1.png" dx="0" dy="0" width="51" height="24"></frame>
+</animatedImage>

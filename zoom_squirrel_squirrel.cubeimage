@@ -1,0 +1,23 @@
+<animatedImage fps="5" blendframes="0" width="357" height="370"> 
+	<frame source="zoom_squirrel_squirrel_Squirrel_01.png" dx="0" dy="74" width="273" height="238"></frame>
+	<frame source="zoom_squirrel_squirrel_Squirrel_02.png" dx="76" dy="28" width="281" height="143"></frame>
+	<frame source="zoom_squirrel_squirrel_Squirrel_02.png" dx="76" dy="28" width="281" height="143"></frame>
+	<frame source="zoom_squirrel_squirrel_Squirrel_03.png" dx="76" dy="35" width="281" height="136"></frame>
+	<frame source="zoom_squirrel_squirrel_Squirrel_03.png" dx="76" dy="35" width="281" height="136"></frame>
+	<frame source="zoom_squirrel_squirrel_Squirrel_03.png" dx="76" dy="35" width="281" height="136"></frame>
+	<frame source="zoom_squirrel_squirrel_Squirrel_03.png" dx="76" dy="35" width="281" height="136"></frame>
+	<frame source="zoom_squirrel_squirrel_Squirrel_03.png" dx="76" dy="35" width="281" height="136"></frame>
+	<frame source="zoom_squirrel_squirrel_Squirrel_03.png" dx="76" dy="35" width="281" height="136"></frame>
+	<frame source="zoom_squirrel_squirrel_Squirrel_02.png" dx="76" dy="28" width="281" height="143"></frame>
+	<frame source="zoom_squirrel_squirrel_Squirrel_02.png" dx="76" dy="28" width="281" height="143"></frame>
+	<frame source="zoom_squirrel_squirrel_Squirrel_02.png" dx="76" dy="28" width="281" height="143"></frame>
+	<frame source="zoom_squirrel_squirrel_Squirrel_02.png" dx="76" dy="28" width="281" height="143"></frame>
+	<frame source="zoom_squirrel_squirrel_Squirrel_02.png" dx="76" dy="28" width="281" height="143"></frame>
+	<frame source="zoom_squirrel_squirrel_Squirrel_02.png" dx="76" dy="28" width="281" height="143"></frame>
+	<frame source="zoom_squirrel_squirrel_Squirrel_03.png" dx="76" dy="35" width="281" height="136"></frame>
+	<frame source="zoom_squirrel_squirrel_Squirrel_03.png" dx="76" dy="35" width="281" height="136"></frame>
+	<frame source="zoom_squirrel_squirrel_Squirrel_04.png" dx="165" dy="0" width="161" height="261"></frame>
+	<frame source="zoom_squirrel_squirrel_Squirrel_05.png" dx="70" dy="95" width="206" height="243"></frame>
+	<frame source="zoom_squirrel_squirrel_Squirrel_05.png" dx="70" dy="95" width="206" height="243"></frame>
+	<frame source="zoom_squirrel_squirrel_Squirrel_06.png" dx="42" dy="147" width="181" height="187"></frame>
+</animatedImage >

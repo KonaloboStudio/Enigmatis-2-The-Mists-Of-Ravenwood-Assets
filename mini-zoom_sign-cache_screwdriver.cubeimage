@@ -1,0 +1,8 @@
+<animatedImage fps="15" blendframes="0" width="202" height="186"> 
+	<frame source="mini-zoom_sign-cache_screwdriver_Screwdriver_15.png" dx="0" dy="1" width="199" height="184"></frame>
+	<frame source="mini-zoom_sign-cache_screwdriver_Screwdriver_14.png" dx="0" dy="1" width="199" height="184"></frame>
+	<frame source="mini-zoom_sign-cache_screwdriver_Screwdriver_13.png" dx="0" dy="1" width="199" height="184"></frame>
+	<frame source="mini-zoom_sign-cache_screwdriver_Screwdriver_03.png" dx="0" dy="0" width="201" height="185"></frame>
+	<frame source="mini-zoom_sign-cache_screwdriver_Screwdriver_02.png" dx="0" dy="1" width="200" height="184"></frame>
+	<frame source="mini-zoom_sign-cache_screwdriver_Screwdriver_01.png" dx="0" dy="1" width="200" height="184"></frame>
+</animatedImage >

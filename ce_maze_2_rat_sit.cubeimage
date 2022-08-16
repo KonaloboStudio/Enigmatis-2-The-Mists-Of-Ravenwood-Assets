@@ -1,0 +1,5 @@
+<animatedImage fps="10" blendframes="0" width="143" height="98"> 
+	<frame source="ce_maze_2_rat_sit_01.png" dx="2" dy="9" width="141" height="89"></frame>
+	<frame source="ce_maze_2_rat_sit_02.png" dx="0" dy="7" width="142" height="90"></frame>
+	<frame source="ce_maze_2_rat_sit_03.png" dx="1" dy="0" width="142" height="98"></frame>
+</animatedImage >

@@ -1,0 +1,4 @@
+<animatedImage fps="15" blendframes="0" width="57" height="110">
+	<frame source="woodpecker_woodpecker_01.png" dx="0" dy="0" width="57" height="109"></frame>
+	<frame source="woodpecker_woodpecker_02.png" dx="1" dy="1" width="50" height="109"></frame>
+</animatedImage>

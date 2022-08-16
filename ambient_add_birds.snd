@@ -1,0 +1,49 @@
+<!-- Additional ambient for more birds. Played in outdoor locations.
+
+- Village.House.Balcony
+- Village.Garden
+- Village.PeripheralHouse.Yard
+- Farm.RoadToFarm
+- Farm.Entrance
+- MainRoad.Crossroads
+- MainRoad.ChurchYardGate
+- MainRoad.Tower.Turret
+- Church.Yard
+- Church.Graveyard 
+
+-->
+
+<Sound Pan="0.0" Pitch="1.000" Volume="0.75" Looped="true" Ambient="true">
+    <CRandomContainer DelayMin="8" DelayMax="16" WaitAfterMin="8" WaitAfterMax="16">
+  	    
+		<CRandomContainer Weight="15" Volume="0.8">
+		<!-- Birds: Owl -->
+		   <CSample>
+              <CSampleFile FileName="15_Bird_2_3.wav"></CSampleFile>
+           </CSample>
+		   <CSample>
+              <CSampleFile FileName="15_Bird_2_1.wav"></CSampleFile>
+           </CSample>
+		   <CSample>
+              <CSampleFile FileName="15_Bird_2_2.wav"></CSampleFile>
+           </CSample>
+		</CRandomContainer>
+		
+		<CRandomContainer Weight="15" Volume="0.7">
+		<!-- Birds: Other -->
+	       <CSample>
+              <CSampleFile FileName="bird_1.wav"></CSampleFile>
+           </CSample>
+	       <CSample>
+              <CSampleFile FileName="14_Bird_1_2.wav"></CSampleFile>
+           </CSample>
+		   <CSample>
+              <CSampleFile FileName="14_Bird_1_3.wav"></CSampleFile>
+           </CSample>
+		   <CSample>
+              <CSampleFile FileName="14_Bird_1_5.wav"></CSampleFile>
+           </CSample>
+		</CRandomContainer>
+		
+    </CRandomContainer>
+</Sound>

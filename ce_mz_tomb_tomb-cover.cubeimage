@@ -1,0 +1,10 @@
+<animatedImage fps="15" blendframes="0" width="320" height="269"> 
+	<frame source="ce_mz_tomb_tomb-cover_Tomb-cover_01.png" dx="0" dy="0" width="320" height="269"></frame>
+	<frame source="ce_mz_tomb_tomb-cover_Tomb-cover_02.png" dx="0" dy="0" width="315" height="251"></frame>
+	<frame source="ce_mz_tomb_tomb-cover_Tomb-cover_03.png" dx="0" dy="0" width="309" height="234"></frame>
+	<frame source="ce_mz_tomb_tomb-cover_Tomb-cover_04.png" dx="0" dy="0" width="309" height="216"></frame>
+	<frame source="ce_mz_tomb_tomb-cover_Tomb-cover_05.png" dx="0" dy="0" width="301" height="194"></frame>
+	<frame source="ce_mz_tomb_tomb-cover_Tomb-cover_06.png" dx="0" dy="0" width="294" height="173"></frame>
+	<frame source="ce_mz_tomb_tomb-cover_Tomb-cover_07.png" dx="0" dy="0" width="286" height="150"></frame>
+	<frame source="ce_mz_tomb_tomb-cover_Tomb-cover_08.png" dx="0" dy="0" width="274" height="124"></frame>
+</animatedImage >

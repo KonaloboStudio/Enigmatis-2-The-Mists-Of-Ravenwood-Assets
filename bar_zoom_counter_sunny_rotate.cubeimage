@@ -1,0 +1,6 @@
+<animatedImage fps="15" blendframes="0" width="226" height="220">
+	<frame source="bar_zoom_counter_sunny_register-handle.png" dx="26" dy="0" width="200" height="215"></frame>
+	<frame source="bar_zoom_counter_sunny_EX_01.png" dx="21" dy="22" width="205" height="200"></frame>
+	<frame source="bar_zoom_counter_sunny_EX_02.png" dx="16" dy="32" width="207" height="192"></frame>
+	<frame source="bar_zoom_counter_sunny_EX_03.png" dx="0" dy="32" width="218" height="190"></frame>
+</animatedImage>

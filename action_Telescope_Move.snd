@@ -1,0 +1,7 @@
+<Sound Pan="0.300" Pitch="1.000" Volume="0.500" Looped="false" >
+    <CRandomContainer DelayMin="0" DelayMax="0">
+		<CSample>
+           <CSampleFile Pan="0.000" Weight="5" Pitch="1.000" Volume="0.300" FileName="Action_telescope_move_1.wav"></CSampleFile>
+        </CSample>
+	</CRandomContainer>
+</Sound>

@@ -1,0 +1,13 @@
+<animatedImage fps="8" blendframes="0" width="303" height="228"> 
+	<frame source="ho_little_people_figure3_EX_figure3_01.png" dx="10" dy="0" width="293" height="220"></frame>
+	<frame source="ho_little_people_figure3_EX_figure3_01.png" dx="10" dy="0" width="293" height="220"></frame>
+	<frame source="ho_little_people_figure3_EX_figure3_02.png" dx="10" dy="0" width="293" height="220"></frame>
+	<frame source="ho_little_people_figure3_EX_figure3_02.png" dx="10" dy="0" width="293" height="220"></frame>
+	<frame source="ho_little_people_figure3_EX_figure3_03.png" dx="8" dy="0" width="295" height="220"></frame>
+	<frame source="ho_little_people_figure3_EX_figure3_03.png" dx="8" dy="0" width="295" height="220"></frame>
+	<frame source="ho_little_people_figure3_EX_figure3_04.png" dx="0" dy="0" width="300" height="219"></frame>
+	<frame source="ho_little_people_figure3_EX_figure3_04.png" dx="0" dy="0" width="300" height="219"></frame>
+	<frame source="ho_little_people_figure3_EX_figure3_05.png" dx="5" dy="0" width="282" height="228"></frame>
+	<frame source="ho_little_people_figure3_EX_figure3_05.png" dx="5" dy="0" width="282" height="228"></frame>
+	<frame source="ho_little_people_figure3_EX_figure3_06.png" dx="10" dy="0" width="243" height="220"></frame>
+</animatedImage >

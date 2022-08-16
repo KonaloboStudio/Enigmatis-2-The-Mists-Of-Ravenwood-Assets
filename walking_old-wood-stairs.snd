@@ -1,0 +1,14 @@
+<!-- Used in Ghost Ship(ew. Galley) and other locations with very old, wooden stairs(ex. Lighthouse). -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" 
+FileName="walking_old-wood-stairs_1.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" 
+FileName="walking_old-wood-stairs_2.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

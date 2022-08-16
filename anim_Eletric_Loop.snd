@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.100" Looped="true" Volume="0.600" FileName="anim_cliff_eletcric_loop.wav"></CSampleFile>
+        </CSample>
+</Sound>

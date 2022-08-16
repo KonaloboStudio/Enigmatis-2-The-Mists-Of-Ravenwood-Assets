@@ -1,0 +1,9 @@
+<!-- Used in locations where is raining(ex. Hall, Office). Looped sound. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Ambient="true">
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.870" Looped="true" FileName="ambient_base_Waves-noise.wav" ></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

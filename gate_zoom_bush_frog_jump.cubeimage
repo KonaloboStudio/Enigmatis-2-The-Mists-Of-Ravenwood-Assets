@@ -1,0 +1,6 @@
+<animatedImage fps="20" blendframes="0" width="99" height="81"> 
+	<frame source="gate_zoom_bush_frog_jump_frog_jump_01.png" dx="1" dy="16" width="85" height="64"></frame>
+	<frame source="gate_zoom_bush_frog_jump_frog_jump_02.png" dx="0" dy="16" width="68" height="65"></frame>
+	<frame source="gate_zoom_bush_frog_jump_Layer_275.png" dx="7" dy="6" width="67" height="67"></frame>
+	<frame source="gate_zoom_bush_frog_jump_Layer_276.png" dx="15" dy="0" width="84" height="81"></frame>
+</animatedImage >

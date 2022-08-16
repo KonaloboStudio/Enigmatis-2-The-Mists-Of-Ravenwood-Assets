@@ -1,0 +1,9 @@
+
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.300" Volume="1.000" FileName="anim_Hummingbird.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

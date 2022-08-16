@@ -1,0 +1,13 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.00">
+    <CRandomContainer>
+		<CSample>
+           <CSampleFile Pan="-0.300" Volume="1.0" Pitch="1.000" FileName="Frog_idle.wav"></CSampleFile>
+        </CSample>
+		<CSample>
+           <CSampleFile Pan="-0.300" Volume="1.0" Pitch="1.000" FileName="Frog_idle_2.wav"></CSampleFile>
+        </CSample>
+		<CSample>
+           <CSampleFile Pan="-0.300" Volume="1.0" Pitch="1.000" FileName="Frog_idle_3.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

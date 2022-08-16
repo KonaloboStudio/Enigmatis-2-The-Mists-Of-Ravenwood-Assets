@@ -1,0 +1,9 @@
+<animatedImage fps="1" blendframes="0" width="121" height="89">
+	<frame source="stellars_jay_sellars_jay_loo_Stellar_01.png" dx="0" dy="2" width="121" height="87"></frame>
+	<frame source="stellars_jay_sellars_jay_loo_Stellar_02.png" dx="0" dy="3" width="121" height="86"></frame>
+	<frame source="stellars_jay_sellars_jay_loo_Stellar_03.png" dx="0" dy="3" width="121" height="86"></frame>
+	<frame source="stellars_jay_sellars_jay_loo_Stellar_04.png" dx="0" dy="0" width="101" height="77"></frame>
+	<frame source="stellars_jay_sellars_jay_loo_Stellar_04.png" dx="0" dy="0" width="101" height="77"></frame>
+	<frame source="stellars_jay_sellars_jay_loo_Stellar_04.png" dx="0" dy="0" width="101" height="77"></frame>
+	<frame source="stellars_jay_sellars_jay_loo_Stellar_04.png" dx="0" dy="0" width="101" height="77"></frame>
+</animatedImage>

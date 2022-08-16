@@ -1,0 +1,20 @@
+<animatedImage fps="18" blendframes="0" width="48" height="48">
+    <frame source="48x48_comment_default_anim_001.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_comment_default_anim_002.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_comment_default_anim_003.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_comment_default_anim_004.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_comment_default_anim_005.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_comment_default_anim_006.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_comment_default_anim_007.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_comment_default_anim_008.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_comment_default_anim_009.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_comment_default_anim_010.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_comment_default_anim_011.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_comment_default_anim_012.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_comment_default_anim_013.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_comment_default_anim_014.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_comment_default_anim_015.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_comment_default_anim_016.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_comment_default_anim_017.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_comment_default_anim_018.png" dx="0" dy="0" width="48" height="48" />
+</animatedImage>

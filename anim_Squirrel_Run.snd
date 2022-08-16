@@ -1,0 +1,9 @@
+<!-- No Comment -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="-0.500" Pitch="1.300" Volume="1.000" FileName="anim_Squirrel_Run.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

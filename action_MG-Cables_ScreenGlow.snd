@@ -1,0 +1,18 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+	<CSoundContainer>
+		<CSoundContainer Delay="0.0">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.000" Volume="1.0" 
+FileName="action_MG-Cables_ScreenGlow.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+		
+		<CSoundContainer Delay="0.0">
+			<CSample>
+				<CSampleFile Pan="0.000" Pitch="1.200" Volume="1.0" 
+FileName="action_MG-Cables_ScreenGlow_2.wav"></CSampleFile>
+			</CSample>
+		</CSoundContainer>
+		
+	</CSoundContainer>
+</Sound>

@@ -1,0 +1,17 @@
+<animatedImage fps="9" blendframes="0" width="109" height="106"> 
+	<frame source="mini-zoom_mouse-toy_windup2-key2_00.png" dx="8" dy="27" width="93" height="71"></frame>
+	<frame source="mini-zoom_mouse-toy_windup2-key2_01.png" dx="30" dy="5" width="71" height="99"></frame>
+	<frame source="mini-zoom_mouse-toy_windup2-key2_02.png" dx="6" dy="0" width="96" height="106"></frame>
+	<frame source="mini-zoom_mouse-toy_windup2-key2_00.png" dx="8" dy="27" width="93" height="71"></frame>
+	<frame source="mini-zoom_mouse-toy_windup2-key2_00.png" dx="8" dy="27" width="93" height="71"></frame>
+	<frame source="mini-zoom_mouse-toy_windup2-key2_00.png" dx="8" dy="27" width="93" height="71"></frame>
+	<frame source="mini-zoom_mouse-toy_windup2-key2_01.png" dx="30" dy="5" width="71" height="99"></frame>
+	<frame source="mini-zoom_mouse-toy_windup2-key2_02.png" dx="6" dy="0" width="96" height="106"></frame>
+	<frame source="mini-zoom_mouse-toy_windup2-key2_00.png" dx="8" dy="27" width="93" height="71"></frame>
+	<frame source="mini-zoom_mouse-toy_windup2-key2_00.png" dx="8" dy="27" width="93" height="71"></frame>
+	<frame source="mini-zoom_mouse-toy_windup2-key2_00.png" dx="8" dy="27" width="93" height="71"></frame>
+	<frame source="mini-zoom_mouse-toy_windup2-key2_01.png" dx="30" dy="5" width="71" height="99"></frame>
+	<frame source="mini-zoom_mouse-toy_windup2-key2_02.png" dx="6" dy="0" width="96" height="106"></frame>
+	<frame source="mini-zoom_mouse-toy_windup2-key2_00.png" dx="8" dy="27" width="93" height="71"></frame>
+	<frame source="mini-zoom_mouse-toy_windup2-key2_00.png" dx="8" dy="27" width="93" height="71"></frame>
+</animatedImage >

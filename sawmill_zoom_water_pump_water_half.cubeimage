@@ -1,0 +1,6 @@
+<animatedImage fps="2" blendframes="0" width="251" height="205">
+	<frame source="sawmill_zoom_water_pump_water_water_001.png" dx="23" dy="78" width="181" height="127"></frame>
+	<frame source="sawmill_zoom_water_pump_water_water_002.png" dx="20" dy="47" width="198" height="119"></frame>
+	<frame source="sawmill_zoom_water_pump_water_water_002.png" dx="20" dy="47" width="198" height="119"></frame>
+	<frame source="sawmill_zoom_water_pump_water_water_001.png" dx="23" dy="78" width="181" height="127"></frame>
+</animatedImage>

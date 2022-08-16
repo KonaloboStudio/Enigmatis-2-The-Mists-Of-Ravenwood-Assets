@@ -1,0 +1,10 @@
+<animatedImage fps="10" blendframes="0" width="176" height="143">
+	<frame source="entrance_exposition_windmill_windmill_07.png" dx="2" dy="0" width="174" height="142"></frame>
+	<frame source="entrance_exposition_windmill_windmill_06.png" dx="1" dy="0" width="174" height="142"></frame>
+	<frame source="entrance_exposition_windmill_windmill_05.png" dx="0" dy="0" width="172" height="143"></frame>
+	<frame source="entrance_exposition_windmill_windmill_04.png" dx="0" dy="0" width="171" height="142"></frame>
+	<frame source="entrance_exposition_windmill_windmill_03.png" dx="0" dy="0" width="171" height="142"></frame>
+	<frame source="entrance_exposition_windmill_windmill_02.png" dx="0" dy="0" width="173" height="142"></frame>
+	<frame source="entrance_exposition_windmill_windmill_01.png" dx="2" dy="0" width="173" height="143"></frame>
+	<frame source="entrance_exposition_windmill_windmill_00.png" dx="2" dy="0" width="174" height="143"></frame>
+</animatedImage>

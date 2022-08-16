@@ -1,0 +1,7 @@
+<animatedImage fps="8" blendframes="0" width="179" height="71">
+	<frame source="ce_maze_2_rat_run_01.png" dx="0" dy="6" width="150" height="59"></frame>
+	<frame source="ce_maze_2_rat_run_02.png" dx="9" dy="4" width="137" height="67"></frame>
+	<frame source="ce_maze_2_rat_run_03.png" dx="0" dy="8" width="153" height="57"></frame>
+	<frame source="ce_maze_2_rat_run_04.png" dx="6" dy="9" width="173" height="50"></frame>
+	<frame source="ce_maze_2_rat_run_05.png" dx="1" dy="0" width="152" height="65"></frame>
+</animatedImage>

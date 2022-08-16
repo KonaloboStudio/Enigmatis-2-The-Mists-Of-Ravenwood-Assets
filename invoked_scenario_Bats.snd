@@ -1,0 +1,10 @@
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSoundContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.900" Volume="1.000" FileName="invoked_scenario_Bats.wav"></CSampleFile>
+        </CSample>
+		<CSample>
+		   <CSampleFile Pan="0.000" Pitch="0.900" Volume="1.700" FileName="invoked_scenario_dramatic_sound.wav"></CSampleFile>
+        </CSample>
+    </CSoundContainer>
+</Sound>

@@ -1,0 +1,5 @@
+<Sound Looped="True" Pan="0.000" Pitch="1.000" Volume="1.000">
+	<CSample>
+		<CSampleFile FileName="woodpecker_looped.wav" Pan="0.000" Pitch="1.000" Volume="1.000"/>
+	</CSample>
+</Sound>

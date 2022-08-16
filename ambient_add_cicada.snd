@@ -1,0 +1,31 @@
+<!-- Additional ambient for cicada. Played in outdoor locations.
+
+- Village.House.Balcony
+- Village.Garden
+- Village.PeripheralHouse.Yard
+- MainRoad.Tower.Base
+- MainRoad.FallenTreeAndBridge
+- MainRoad.GasStation
+- MainRoad.MapleCreekTree
+- MainRoad.ChurchYardGate
+- Church.Yard
+- Church.Graveyard 
+- Mansion.FrontDoor
+- Hut.Statue
+- Hut.Outdoor
+- LakeHouse.Surroundings
+- LakeHouse.Shore
+- LakeHouse.SacredPlace
+
+-->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="0.75" FadeInTime="2.0" FadeOutTime="2.0" Looped="true" Ambient="true">
+    <CRandomContainer DelayMin="10" DelayMax="25" WaitAfterMin="10" WaitAfterMax="25">
+		<CSample>
+           <CSampleFile Pan="0.000" Weight="1" Volume="0.2" Pitch="1.000" FileName="cicada_1.wav"></CSampleFile>
+        </CSample>
+		<CSample>
+           <CSampleFile Pan="0.000" Weight="1" Volume="0.2" Pitch="1.000" FileName="cicada_2.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

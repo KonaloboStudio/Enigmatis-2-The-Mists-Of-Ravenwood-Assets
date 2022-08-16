@@ -1,0 +1,9 @@
+<!-- Used in mShipwrecks, sound walking on a sand. (ex. Shipwrecks) -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" FileName="walking_sand.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

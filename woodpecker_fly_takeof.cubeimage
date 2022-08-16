@@ -1,0 +1,8 @@
+<animatedImage fps="8" blendframes="0" width="127" height="131"> 
+	<frame source="woodpecker_fly_fly_1.png" dx="43" dy="19" width="51" height="112"></frame>
+	<frame source="woodpecker_fly_fly_2.png" dx="43" dy="14" width="52" height="117"></frame>
+	<frame source="woodpecker_fly_fly_3.png" dx="45" dy="16" width="50" height="115"></frame>
+	<frame source="woodpecker_fly_fly_4.png" dx="27" dy="19" width="68" height="112"></frame>
+	<frame source="woodpecker_fly_fly_5.png" dx="20" dy="19" width="77" height="112"></frame>
+	<frame source="woodpecker_fly_fly_6.png" dx="41" dy="17" width="71" height="114"></frame>
+</animatedImage >

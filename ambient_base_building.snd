@@ -1,0 +1,72 @@
+<!-- Base ambient soundscript for indoors: 
+
+- Village.House.Vestibule
+- Village.House.Corridor
+- Village.House.Bathroom
+- Village.House.PCRoom
+- Village.House.Cellar
+- PeripheralHouse.Inside
+- Farm.Garage
+- Farm.Barn
+- Hut.Inside
+- Hut.Basement
+- Church.Inside
+- Church.Belfry
+- Church.BelfryTop
+- LakeHouse.Interior
+
+-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="0.6" Looped="true"  Ambient="true">
+    <CRandomContainer DelayMin="3" DelayMax="5" WaitAfterMin="5" WaitAfterMax="8">
+
+	    <CSample Weight="10">
+		   <!-- floor squaeking #1 -->
+		   <CSampleFile Pan="0.000" Pitch="1.000" FileName="05_Artificial_Squeak_4.wav"></CSampleFile>
+        </CSample>
+
+        <CSample Weight="10">
+		   <!-- floor squaeking #2 -->
+		   <CSampleFile Pan="0.000" Pitch="1.000" FileName="06_Artificial_Squeak_1.wav"></CSampleFile>
+        </CSample>
+
+        <CSample Weight="10">
+		   <!-- floor squaeking #3 -->
+		   <CSampleFile Pan="0.000" Pitch="1.000" FileName="06_Artificial_Squeak_2.wav"></CSampleFile>
+        </CSample>
+
+        <CSample Weight="10">
+		   <!-- floor squaeking #4 -->
+		   <CSampleFile Pan="0.000" Pitch="1.000" FileName="06_Artificial_Squeak_3.wav"></CSampleFile>
+        </CSample>
+
+		<CSample Weight="2">
+		   <!-- door squaeking #1 -->
+           <CSampleFile Pan="0.000" Pitch="1.0" FileName="05_Artificial_Squeak_6.wav"></CSampleFile>
+        </CSample>
+
+		<CSample Weight="2">
+		   <!-- door squaeking #2 -->
+           <CSampleFile Pan="0.000" Pitch="1.0" FileName="05_Artificial_Squeak_7.wav"></CSampleFile>
+        </CSample>
+
+		<CSequenceContainer Weight="5" Volume="0.4">
+		   <!-- silent walking -->
+		   <CSample>
+              <CSampleFile Pan="0.000" Pitch="1.000" FileName="18_Sneaking_indoor_4.wav"></CSampleFile>
+           </CSample>
+		   <CSample>
+              <CSampleFile Pan="0.000" Pitch="1.000" FileName="18_Sneaking_indoor_4.wav"></CSampleFile>
+           </CSample>
+		   <CSample>
+              <CSampleFile Pan="0.000" Pitch="1.000" FileName="18_Sneaking_indoor_4.wav"></CSampleFile>
+           </CSample>
+		</CSequenceContainer>
+
+		<CSample Weight="10">
+		   <!-- door/wood squeaking -->
+           <CSampleFile Pan="0.000" Pitch="0.800" FileName="81_Artificial_Squeak.wav"></CSampleFile>
+        </CSample>
+
+    </CRandomContainer>
+</Sound>

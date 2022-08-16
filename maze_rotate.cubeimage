@@ -1,0 +1,27 @@
+<animatedImage fps="15" blendframes="0" width="84" height="139"> 
+	<frame source="maze_EX_01.png" dx="12" dy="7" width="66" height="118"></frame>
+	<frame source="maze_EX_02.png" dx="12" dy="7" width="65" height="117"></frame>
+	<frame source="maze_EX_03.png" dx="12" dy="7" width="64" height="115"></frame>
+	<frame source="maze_EX_04.png" dx="12" dy="7" width="65" height="117"></frame>
+	<frame source="maze_EX_05.png" dx="12" dy="7" width="65" height="118"></frame>
+	<frame source="maze_EX_01.png" dx="12" dy="7" width="66" height="118"></frame>
+	<frame source="maze_EX_02.png" dx="12" dy="7" width="65" height="117"></frame>
+	<frame source="maze_EX_03.png" dx="12" dy="7" width="64" height="115"></frame>
+	<frame source="maze_EX_04.png" dx="12" dy="7" width="65" height="117"></frame>
+	<frame source="maze_EX_05.png" dx="12" dy="7" width="65" height="118"></frame>
+	<frame source="maze_EX_01.png" dx="12" dy="7" width="66" height="118"></frame>
+	<frame source="maze_EX_02.png" dx="12" dy="7" width="65" height="117"></frame>
+	<frame source="maze_EX_03.png" dx="12" dy="7" width="64" height="115"></frame>
+	<frame source="maze_EX_04.png" dx="12" dy="7" width="65" height="117"></frame>
+	<frame source="maze_EX_05.png" dx="12" dy="7" width="65" height="118"></frame>
+	<frame source="maze_EX_01.png" dx="12" dy="7" width="66" height="118"></frame>
+	<frame source="maze_EX_02.png" dx="12" dy="7" width="65" height="117"></frame>
+	<frame source="maze_EX_03.png" dx="12" dy="7" width="64" height="115"></frame>
+	<frame source="maze_EX_04.png" dx="12" dy="7" width="65" height="117"></frame>
+	<frame source="maze_EX_05.png" dx="12" dy="7" width="65" height="118"></frame>
+	<frame source="maze_EX_01.png" dx="12" dy="7" width="66" height="118"></frame>
+	<frame source="maze_EX_02.png" dx="12" dy="7" width="65" height="117"></frame>
+	<frame source="maze_EX_03.png" dx="12" dy="7" width="64" height="115"></frame>
+	<frame source="maze_EX_04.png" dx="12" dy="7" width="65" height="117"></frame>
+	<frame source="maze_EX_05.png" dx="12" dy="7" width="65" height="118"></frame>
+</animatedImage >

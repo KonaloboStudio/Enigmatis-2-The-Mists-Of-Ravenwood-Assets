@@ -1,0 +1,7 @@
+<Sound Pan="-0.700" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.800" FileName="hint_objective_appear.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

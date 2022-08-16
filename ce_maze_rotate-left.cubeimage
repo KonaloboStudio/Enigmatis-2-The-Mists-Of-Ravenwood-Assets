@@ -1,0 +1,7 @@
+<animatedImage fps="15" blendframes="0" width="61" height="129"> 
+	<frame source="ce_maze_rotate-left_EX_01.png" dx="3" dy="3" width="57" height="116"></frame>
+	<frame source="ce_maze_rotate-left_EX_02.png" dx="0" dy="3" width="59" height="114"></frame>
+	<frame source="ce_maze_rotate-left_EX_03.png" dx="0" dy="3" width="59" height="113"></frame>
+	<frame source="ce_maze_rotate-left_EX_04.png" dx="3" dy="3" width="56" height="115"></frame>
+	<frame source="ce_maze_rotate-left_EX_05.png" dx="2" dy="3" width="57" height="116"></frame>
+</animatedImage >

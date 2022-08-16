@@ -1,0 +1,11 @@
+<animatedImage fps="15" blendframes="0" width="40" height="40">
+	<frame source="crossroads_eye_1.png" dx="0" dy="1" width="40" height="39"></frame>
+	<frame source="crossroads_eye_2.png" dx="0" dy="1" width="40" height="39"></frame>
+	<frame source="crossroads_eye_3.png" dx="0" dy="0" width="40" height="40"></frame>
+	<frame source="crossroads_eye_3.png" dx="0" dy="0" width="40" height="40"></frame>
+	<frame source="crossroads_eye_3.png" dx="0" dy="0" width="40" height="40"></frame>
+	<frame source="crossroads_eye_3.png" dx="0" dy="0" width="40" height="40"></frame>
+	<frame source="crossroads_eye_3.png" dx="0" dy="0" width="40" height="40"></frame>
+	<frame source="crossroads_eye_2.png" dx="0" dy="1" width="40" height="39"></frame>
+	<frame source="crossroads_eye_1.png" dx="0" dy="1" width="40" height="39"></frame>
+</animatedImage>

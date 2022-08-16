@@ -1,0 +1,7 @@
+<!-- The sound of the last stage hint recharging scenario.-->
+
+<Sound Pan="0.800" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.900" Volume="1.000" FileName="hint_recharged.wav"></CSampleFile>
+        </CSample>
+</Sound>

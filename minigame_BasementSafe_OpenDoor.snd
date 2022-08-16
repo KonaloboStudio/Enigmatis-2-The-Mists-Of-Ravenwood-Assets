@@ -1,0 +1,9 @@
+<!-- Used in Church: Minigame BasementSafe. Open the door. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="minigame_BasementSafe_OpenDoor.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

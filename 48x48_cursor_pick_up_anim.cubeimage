@@ -1,0 +1,10 @@
+<animatedImage fps="10" blendframes="0">
+	<frame source="48x48_cursor_pick_up_anim001.png"></frame>
+	<frame source="48x48_cursor_pick_up_anim002.png"></frame>
+	<frame source="48x48_cursor_pick_up_anim003.png"></frame>
+	<frame source="48x48_cursor_pick_up_anim004.png"></frame>
+	<frame source="48x48_cursor_pick_up_anim005.png"></frame>
+	<frame source="48x48_cursor_pick_up_anim004.png"></frame>
+	<frame source="48x48_cursor_pick_up_anim003.png"></frame>
+	<frame source="48x48_cursor_pick_up_anim002.png"></frame>
+</animatedImage>

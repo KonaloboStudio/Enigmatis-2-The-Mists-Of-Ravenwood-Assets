@@ -1,0 +1,9 @@
+<!-- Used in Prison Zoom Lamp. Pouring oil into a lamp. -->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="action_Oil_Pour.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

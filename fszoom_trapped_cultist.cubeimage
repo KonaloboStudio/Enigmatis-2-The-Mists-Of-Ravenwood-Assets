@@ -1,0 +1,9 @@
+<animatedImage fps="4" blendframes="1" width="355" height="274">
+	<frame source="fszoom_trapped_cultist_CULTIST_01.png" dx="0" dy="0" width="127" height="256"></frame>
+	<frame source="fszoom_trapped_cultist_CULTIST_02.png" dx="62" dy="4" width="153" height="270"></frame>
+	<frame source="fszoom_trapped_cultist_CULTIST_03.png" dx="129" dy="5" width="119" height="252"></frame>
+	<frame source="fszoom_trapped_cultist_CULTIST_04.png" dx="154" dy="2" width="157" height="231"></frame>
+	<frame source="fszoom_trapped_cultist_CULTIST_05.png" dx="254" dy="5" width="97" height="172"></frame>
+	<frame source="fszoom_trapped_cultist_CULTIST_06.png" dx="284" dy="11" width="71" height="166"></frame>
+	<frame source="fszoom_trapped_cultist_CULTIST_07.png" dx="338" dy="34" width="17" height="94"></frame>
+</animatedImage>

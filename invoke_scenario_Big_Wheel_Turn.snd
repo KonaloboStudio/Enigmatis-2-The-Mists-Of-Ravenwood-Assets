@@ -1,0 +1,5 @@
+<Sound Looped="False" Pan="0.000" Pitch="0.750" Volume="1.000">
+	<CSample>
+		<CSampleFile FileName="invoke_scenario_Big_Wheel_Turn.wav" Pan="0.000" Pitch="1.000" Volume="1.000"/>
+	</CSample>
+</Sound>

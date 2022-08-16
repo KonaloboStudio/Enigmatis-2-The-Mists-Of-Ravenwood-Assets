@@ -1,0 +1,12 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="true"  Ambient="true" >
+    <CRandomContainer DelayMin="6" DelayMax="12" WaitAfterMin="5" WaitAfterMax="12">
+        <CSample>
+           <CSampleFile Pan="0.300" Pitch="1.000" Volume="0.750" 
+FileName="ambient_add_Cry-of-Seagulls_1.wav" ></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="-0.300" Pitch="1.000" Volume="0.750" 
+FileName="ambient_add_Cry-of-Seagulls_2.wav" ></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

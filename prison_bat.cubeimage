@@ -1,0 +1,5 @@
+<animatedImage fps="2" blendframes="0" width="112" height="71">
+	<frame source="prison_bat_bat_01.png" dx="0" dy="0" width="107" height="71"></frame>
+	<frame source="prison_bat_bat_05.png" dx="0" dy="0" width="107" height="71"></frame>
+	<frame source="prison_bat_bat_06.png" dx="0" dy="0" width="112" height="71"></frame>
+</animatedImage>

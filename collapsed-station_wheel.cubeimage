@@ -1,0 +1,37 @@
+<animatedImage fps="18" blendframes="0" width="288" height="88">
+	<frame source="collapsed-station_wheel_ex_wheel_34.png" dx="2" dy="1" width="282" height="87"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_33.png" dx="3" dy="1" width="281" height="87"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_32.png" dx="4" dy="1" width="279" height="87"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_31.png" dx="5" dy="0" width="278" height="88"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_30.png" dx="7" dy="0" width="276" height="88"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_29.png" dx="8" dy="0" width="275" height="88"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_28.png" dx="8" dy="0" width="275" height="88"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_27.png" dx="8" dy="0" width="275" height="88"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_10.png" dx="4" dy="3" width="282" height="85"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_09.png" dx="2" dy="3" width="285" height="85"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_08.png" dx="0" dy="3" width="287" height="85"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_07.png" dx="0" dy="3" width="288" height="85"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_10.png" dx="4" dy="3" width="282" height="85"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_09.png" dx="2" dy="3" width="285" height="85"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_08.png" dx="0" dy="3" width="287" height="85"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_07.png" dx="0" dy="3" width="288" height="85"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_10.png" dx="4" dy="3" width="282" height="85"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_09.png" dx="2" dy="3" width="285" height="85"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_08.png" dx="0" dy="3" width="287" height="85"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_07.png" dx="0" dy="3" width="288" height="85"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_10.png" dx="4" dy="3" width="282" height="85"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_09.png" dx="2" dy="3" width="285" height="85"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_08.png" dx="0" dy="3" width="287" height="85"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_07.png" dx="0" dy="3" width="288" height="85"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_10.png" dx="4" dy="3" width="282" height="85"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_09.png" dx="2" dy="3" width="285" height="85"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_08.png" dx="0" dy="3" width="287" height="85"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_07.png" dx="0" dy="3" width="288" height="85"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_06.png" dx="0" dy="3" width="287" height="85"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_05.png" dx="0" dy="2" width="287" height="86"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_04.png" dx="0" dy="2" width="286" height="86"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_03.png" dx="2" dy="2" width="284" height="86"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_02.png" dx="2" dy="2" width="283" height="86"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_01.png" dx="2" dy="1" width="282" height="87"></frame>
+	<frame source="collapsed-station_wheel_ex_wheel_00.png" dx="2" dy="1" width="282" height="87"></frame>
+</animatedImage>

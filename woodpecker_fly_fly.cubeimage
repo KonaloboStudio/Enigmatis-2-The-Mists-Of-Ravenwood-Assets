@@ -1,0 +1,4 @@
+<animatedImage fps="8" blendframes="0" width="127" height="131"> 
+	<frame source="woodpecker_fly_fly_7.png" dx="0" dy="19" width="102" height="107"></frame>
+	<frame source="woodpecker_fly_fly_8.png" dx="36" dy="0" width="91" height="126"></frame>
+</animatedImage >

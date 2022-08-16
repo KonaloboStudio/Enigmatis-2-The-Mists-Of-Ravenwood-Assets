@@ -1,0 +1,88 @@
+<!-- Base ambient soundscript for underground church & cave locations:
+
+- Church.Basement
+- Church.SecretChamber
+- Church.Tomb
+- Cave.Entrance
+- Cave.RitualHall
+
+-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="0.75" Looped="true" Ambient="true">
+    <CRandomContainer DelayMin="1" DelayMax="3" WaitAfterMin="0" WaitAfterMax="1">
+
+  	    <CRandomContainer Weight="5" Volume="0.6" FadeInTime="0.25" FadeOutTime="0.25">
+		<!-- Artificial Squeak [RARE] -->
+           <CSample Weight="1">
+		      <CSampleFile Pan="0.000" Volume="1.0" Pitch="0.500" FileName="05_Artificial_Squeak_2.wav"></CSampleFile>
+		   </CSample>
+           <CSample Weight="1">
+		      <CSampleFile Pan="0.000" Volume="1.0" Pitch="0.500" FileName="05_Artificial_Squeak_6.wav"></CSampleFile>
+		   </CSample>
+           <CSample Weight="1">
+		      <CSampleFile Pan="0.000" Volume="1.0" Pitch="0.500" FileName="05_Artificial_Squeak_7.wav"></CSampleFile>
+		   </CSample>
+           <CSample Weight="1">
+		      <CSampleFile Pan="0.000" Volume="1.0" Pitch="0.500" FileName="81_Artificial_Squeak.wav"></CSampleFile>
+		   </CSample>
+        </CRandomContainer>
+
+		<CRandomContainer Weight="25" Volume="1.0">
+		<!-- All the water drops [MODERATELY OFTEN] -->
+			<CSequenceContainer Weight="2" Volume="0.75">
+			<!-- Single, moderately loud -->
+				<CSample>
+					<CSampleFile Pan="0.000" Pitch="1.000" Volume="0.5" FileName="27_Water_drop.wav"></CSampleFile>
+				</CSample>
+			</CSequenceContainer>
+
+			<CSequenceContainer Weight="3" Volume="0.7">
+			<!-- Double, moderately loud -->
+				<CSample>
+					<CSampleFile Pan="0.000" Pitch="1.000" Volume="0.5" FileName="27_Water_drop.wav"></CSampleFile>
+				</CSample>
+				<CSample>
+					<CSampleFile Pan="0.000" Pitch="1.000" Volume="0.5" FileName="27_Water_drop.wav"></CSampleFile>
+				</CSample>
+			</CSequenceContainer>
+
+			<CSequenceContainer Weight="1" Volume="0.6">
+			<!-- Triple, moderately silent -->
+				<CSample>
+					<CSampleFile Pan="0.000" Pitch="1.000" Volume="0.5" FileName="27_Water_drop.wav"></CSampleFile>
+				</CSample>
+				<CSample>
+					<CSampleFile Pan="0.000" Pitch="0.95" Volume="0.5" FileName="27_Water_drop.wav"></CSampleFile>
+				</CSample>
+				<CSample>
+					<CSampleFile Pan="0.100" Pitch="0.98" Volume="0.5" FileName="27_Water_drop.wav"></CSampleFile>
+				</CSample>
+			</CSequenceContainer>
+
+			<CSequenceContainer Weight="2" Volume="1.0">
+			<!-- Single, loud -->
+				<CSample>
+					<CSampleFile Pan="0.000" Pitch="0.9" Volume="0.5" FileName="27_Water_drop.wav"></CSampleFile>
+				</CSample>
+			</CSequenceContainer>
+		</CRandomContainer>
+
+  	    <CRandomContainer Weight="5" Volume="0.6" FadeInTime="0.25" FadeOutTime="0.25">
+		<!-- Natural Squeak [RARE] -->
+           <CSample Weight="1">
+		      <CSampleFile Pan="0.000" Volume="1.0" Pitch="0.500" FileName="82_Natural_Squeak.wav"></CSampleFile>
+		   </CSample>
+           <CSample Weight="1">
+		      <CSampleFile Pan="0.000" Volume="1.0" Pitch="0.500" FileName="07_Natural_Squeak_2.wav"></CSampleFile>
+		   </CSample>
+        </CRandomContainer>
+
+  	    <CSequenceContainer Weight="5" Volume="0.5">
+		<!-- Bat/Small bird squeak [MODERATELY RARE] -->
+           <CSample Weight="1">
+		      <CSampleFile Pan="0.000" Volume="1.0" Pitch="1.0" FileName="14_bird_1_2.wav"></CSampleFile>
+		   </CSample>
+        </CSequenceContainer>
+		
+    </CRandomContainer>
+</Sound>

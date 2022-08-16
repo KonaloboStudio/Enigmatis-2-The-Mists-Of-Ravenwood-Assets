@@ -1,0 +1,7 @@
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Ambient="true">
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" Looped="true" FadeInTime="1.000" FileName="ambient_add_Crane_Engine.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

@@ -1,0 +1,9 @@
+<animatedImage fps="11" blendframes="0" width="30" height="36">
+	<frame source="museum_zoom_stuffed-bird_crow_eye_1.png" dx="15" dy="5" width="14" height="22"></frame>
+	<frame source="museum_zoom_stuffed-bird_crow_eye_1.png" dx="9" dy="2" width="21" height="29"></frame>
+	<frame source="museum_zoom_stuffed-bird_crow_eye_2.png" dx="3" dy="0" width="27" height="35"></frame>
+	<frame source="museum_zoom_stuffed-bird_crow_eye_4.png" dx="0" dy="1" width="30" height="35"></frame>
+	<frame source="museum_zoom_stuffed-bird_crow_eye_2.png" dx="3" dy="0" width="27" height="35"></frame>
+	<frame source="museum_zoom_stuffed-bird_crow_eye_1.png" dx="9" dy="2" width="21" height="29"></frame>
+	<frame source="museum_zoom_stuffed-bird_crow_eye_1.png" dx="15" dy="5" width="14" height="22"></frame>
+</animatedImage>

@@ -1,0 +1,7 @@
+<animatedImage fps="11" blendframes="0" width="386" height="305">
+	<frame source="highway_zoom_mess_opening_opening03.png" dx="48" dy="44" width="337" height="261"></frame>
+	<frame source="highway_zoom_mess_opening_opening04.png" dx="47" dy="42" width="339" height="236"></frame>
+	<frame source="highway_zoom_mess_opening_opening05.png" dx="31" dy="40" width="354" height="196"></frame>
+	<frame source="highway_zoom_mess_opening_opening06.png" dx="13" dy="38" width="367" height="148"></frame>
+	<frame source="highway_zoom_mess_opening_opening07.png" dx="0" dy="0" width="373" height="146"></frame>
+</animatedImage>

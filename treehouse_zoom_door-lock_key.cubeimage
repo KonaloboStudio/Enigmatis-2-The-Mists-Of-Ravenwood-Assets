@@ -1,0 +1,9 @@
+<animatedImage fps="9" blendframes="0" width="55" height="51"> 
+	<frame source="treehouse_zoom_door-lock_key_key7.png" dx="3" dy="0" width="52" height="51"></frame>
+	<frame source="treehouse_zoom_door-lock_key_key6.png" dx="2" dy="0" width="53" height="51"></frame>
+	<frame source="treehouse_zoom_door-lock_key_key5.png" dx="0" dy="2" width="55" height="49"></frame>
+	<frame source="treehouse_zoom_door-lock_key_key4.png" dx="0" dy="8" width="55" height="43"></frame>
+	<frame source="treehouse_zoom_door-lock_key_key3.png" dx="6" dy="2" width="49" height="49"></frame>
+	<frame source="treehouse_zoom_door-lock_key_key2.png" dx="4" dy="0" width="51" height="51"></frame>
+	<frame source="treehouse_zoom_door-lock_key_key1.png" dx="3" dy="0" width="52" height="51"></frame>
+</animatedImage >

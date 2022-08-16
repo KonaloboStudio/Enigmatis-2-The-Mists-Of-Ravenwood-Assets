@@ -1,0 +1,13 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.800" Volume="1.000" FileName="anim_Rat_Idle_1.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.800" Volume="1.000" FileName="anim_Rat_Idle_2.wav"></CSampleFile>
+        </CSample>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.800" Volume="1.000" FileName="anim_Rat_Idle_3.wav"></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

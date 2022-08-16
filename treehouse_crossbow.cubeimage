@@ -1,0 +1,6 @@
+<animatedImage fps="36" blendframes="0" width="928" height="210">
+	<frame source="treehouse_crossbow04.png" dx="28" dy="0" width="873" height="210"></frame>
+	<frame source="treehouse_crossbow03.png" dx="19" dy="0" width="891" height="210"></frame>
+	<frame source="treehouse_crossbow02.png" dx="5" dy="0" width="918" height="210"></frame>
+	<frame source="treehouse_crossbow01.png" dx="0" dy="0" width="928" height="210"></frame>
+</animatedImage>

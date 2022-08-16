@@ -1,0 +1,6 @@
+<animatedImage fps="17" blendframes="0" width="108" height="117"> 
+	<frame source="stellars_jay_stellars_jay_fly_Stellar_fly_01.png" dx="0" dy="35" width="108" height="82"></frame>
+	<frame source="stellars_jay_stellars_jay_fly_Stellar_fly_02.png" dx="0" dy="36" width="108" height="53"></frame>
+	<frame source="stellars_jay_stellars_jay_fly_Stellar_fly_03.png" dx="1" dy="0" width="107" height="89"></frame>
+	<frame source="stellars_jay_stellars_jay_fly_Stellar_fly_04.png" dx="0" dy="36" width="108" height="53"></frame>
+</animatedImage >

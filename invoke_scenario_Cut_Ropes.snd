@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="1.000" FileName="invoke_scenario_Cut_Ropes.wav"></CSampleFile>
+        </CSample>
+</Sound>

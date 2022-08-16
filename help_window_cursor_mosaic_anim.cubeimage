@@ -1,0 +1,5 @@
+<animatedImage fps="10" blendframes="0">
+	<frame source="help_window_cursor_mosaic_anim_001.png"></frame>
+	<frame source="help_window_cursor_mosaic_anim_002.png"></frame>
+	<frame source="help_window_cursor_mosaic_anim_003.png"></frame>
+</animatedImage>

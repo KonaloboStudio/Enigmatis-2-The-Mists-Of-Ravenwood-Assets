@@ -1,0 +1,7 @@
+<!-- Used in Chapel: Zoom Skeletons. Open a wallet.-->
+
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Looped="false" >
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.200" Volume="1.000" FileName="action_Wallet_Open.wav"></CSampleFile>
+        </CSample>
+</Sound>

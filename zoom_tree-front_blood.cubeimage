@@ -1,0 +1,10 @@
+<animatedImage fps="3" blendframes="1" width="35" height="174">
+	<frame source="zoom_tree-front_Blood_01.png" dx="1" dy="1" width="13" height="37"></frame>
+	<frame source="zoom_tree-front_Blood_02.png" dx="0" dy="0" width="14" height="49"></frame>
+	<frame source="zoom_tree-front_Blood_03.png" dx="3" dy="0" width="10" height="63"></frame>
+	<frame source="zoom_tree-front_Blood_04.png" dx="3" dy="0" width="14" height="90"></frame>
+	<frame source="zoom_tree-front_Blood_05.png" dx="3" dy="0" width="21" height="106"></frame>
+	<frame source="zoom_tree-front_Blood_06.png" dx="3" dy="0" width="28" height="125"></frame>
+	<frame source="zoom_tree-front_Blood_07.png" dx="3" dy="0" width="32" height="153"></frame>
+	<frame source="zoom_tree-front_Blood_08.png" dx="3" dy="0" width="32" height="174"></frame>
+</animatedImage>

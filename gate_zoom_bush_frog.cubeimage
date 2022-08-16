@@ -1,0 +1,12 @@
+<animatedImage fps="5" blendframes="0" width="85" height="64">
+	<frame source="gate_zoom_bush_frog_frog_03.png" dx="0" dy="0" width="85" height="64"></frame>
+	<frame source="gate_zoom_bush_frog_frog_02.png" dx="0" dy="0" width="85" height="64"></frame>
+	<frame source="gate_zoom_bush_frog_frog_01.png" dx="0" dy="0" width="85" height="64"></frame>
+	<frame source="gate_zoom_bush_frog_frog_02.png" dx="0" dy="0" width="85" height="64"></frame>
+	<frame source="gate_zoom_bush_frog_frog_03.png" dx="0" dy="0" width="85" height="64"></frame>
+	<frame source="gate_zoom_bush_frog_frog_03.png" dx="0" dy="0" width="85" height="64"></frame>
+	<frame source="gate_zoom_bush_frog_frog_03.png" dx="0" dy="0" width="85" height="64"></frame>
+	<frame source="gate_zoom_bush_frog_frog_03.png" dx="0" dy="0" width="85" height="64"></frame>
+	<frame source="gate_zoom_bush_frog_frog_03.png" dx="0" dy="0" width="85" height="64"></frame>
+	<frame source="gate_zoom_bush_frog_frog_03.png" dx="0" dy="0" width="85" height="64"></frame>
+</animatedImage>

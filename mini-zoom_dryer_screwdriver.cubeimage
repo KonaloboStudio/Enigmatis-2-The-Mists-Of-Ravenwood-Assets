@@ -1,0 +1,14 @@
+<animatedImage fps="15" blendframes="0" width="43" height="142"> 
+	<frame source="mini-zoom_dryer_screwdriver_00.png" dx="0" dy="0" width="43" height="141"></frame>
+	<frame source="mini-zoom_dryer_screwdriver_01.png" dx="0" dy="0" width="42" height="142"></frame>
+	<frame source="mini-zoom_dryer_screwdriver_02.png" dx="0" dy="0" width="42" height="142"></frame>
+	<frame source="mini-zoom_dryer_screwdriver_00.png" dx="0" dy="0" width="43" height="141"></frame>
+	<frame source="mini-zoom_dryer_screwdriver_01.png" dx="0" dy="0" width="42" height="142"></frame>
+	<frame source="mini-zoom_dryer_screwdriver_02.png" dx="0" dy="0" width="42" height="142"></frame>
+	<frame source="mini-zoom_dryer_screwdriver_00.png" dx="0" dy="0" width="43" height="141"></frame>
+	<frame source="mini-zoom_dryer_screwdriver_01.png" dx="0" dy="0" width="42" height="142"></frame>
+	<frame source="mini-zoom_dryer_screwdriver_02.png" dx="0" dy="0" width="42" height="142"></frame>
+	<frame source="mini-zoom_dryer_screwdriver_00.png" dx="0" dy="0" width="43" height="141"></frame>
+	<frame source="mini-zoom_dryer_screwdriver_01.png" dx="0" dy="0" width="42" height="142"></frame>
+	<frame source="mini-zoom_dryer_screwdriver_02.png" dx="0" dy="0" width="42" height="142"></frame>
+</animatedImage >

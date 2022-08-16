@@ -1,0 +1,17 @@
+<animatedImage fps="8" blendframes="0" width="32" height="152"> 
+	<frame source="sawmill_zoom_water_pump_water_stream_water_stream_001.png" dx="7" dy="2" width="13" height="14"></frame>
+	<frame source="sawmill_zoom_water_pump_water_stream_water_stream_002.png" dx="6" dy="5" width="21" height="75"></frame>
+	<frame source="sawmill_zoom_water_pump_water_stream_water_stream_003.png" dx="3" dy="0" width="28" height="105"></frame>
+	<frame source="sawmill_zoom_water_pump_water_stream_water_stream_004.png" dx="3" dy="4" width="29" height="132"></frame>
+	<frame source="sawmill_zoom_water_pump_water_stream_water_stream_005.png" dx="5" dy="2" width="26" height="141"></frame>
+	<frame source="sawmill_zoom_water_pump_water_stream_water_stream_006.png" dx="4" dy="2" width="28" height="150"></frame>
+	<frame source="sawmill_zoom_water_pump_water_stream_water_stream_007.png" dx="0" dy="4" width="28" height="139"></frame>
+	<frame source="sawmill_zoom_water_pump_water_stream_water_stream_008.png" dx="3" dy="2" width="25" height="139"></frame>
+	<frame source="sawmill_zoom_water_pump_water_stream_water_stream_005.png" dx="5" dy="2" width="26" height="141"></frame>
+	<frame source="sawmill_zoom_water_pump_water_stream_water_stream_006.png" dx="4" dy="2" width="28" height="150"></frame>
+	<frame source="sawmill_zoom_water_pump_water_stream_water_stream_007.png" dx="0" dy="4" width="28" height="139"></frame>
+	<frame source="sawmill_zoom_water_pump_water_stream_water_stream_008.png" dx="3" dy="2" width="25" height="139"></frame>
+	<frame source="sawmill_zoom_water_pump_water_stream_water_stream_009.png" dx="3" dy="3" width="25" height="138"></frame>
+	<frame source="sawmill_zoom_water_pump_water_stream_water_stream_010.png" dx="5" dy="42" width="22" height="94"></frame>
+	<frame source="sawmill_zoom_water_pump_water_stream_water_stream_011.png" dx="5" dy="34" width="22" height="95"></frame>
+</animatedImage >

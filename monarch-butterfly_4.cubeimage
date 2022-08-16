@@ -1,0 +1,11 @@
+<animatedImage fps="24" blendframes="0" width="41" height="34">
+	<frame source="monarch-butterfly_4_4-4.png" dx="2" dy="1" width="37" height="27"></frame>
+	<frame source="monarch-butterfly_4_4-3.png" dx="2" dy="0" width="37" height="27"></frame>
+	<frame source="monarch-butterfly_4_4-2.png" dx="0" dy="0" width="39" height="28"></frame>
+	<frame source="monarch-butterfly_4_4-1.png" dx="0" dy="5" width="40" height="24"></frame>
+	<frame source="monarch-butterfly_4_4-0.png" dx="0" dy="11" width="41" height="23"></frame>
+	<frame source="monarch-butterfly_4_4-1.png" dx="0" dy="5" width="40" height="24"></frame>
+	<frame source="monarch-butterfly_4_4-2.png" dx="0" dy="0" width="39" height="28"></frame>
+	<frame source="monarch-butterfly_4_4-3.png" dx="2" dy="0" width="37" height="27"></frame>
+	<frame source="monarch-butterfly_4_4-4.png" dx="2" dy="1" width="37" height="27"></frame>
+</animatedImage>

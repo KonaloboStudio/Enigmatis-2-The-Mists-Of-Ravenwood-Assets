@@ -1,0 +1,9 @@
+<animatedImage fps="7" blendframes="0" width="48" height="48">
+    <frame source="48x48_navigation_cursor_back_left_anim_001.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_navigation_cursor_back_left_anim_002.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_navigation_cursor_back_left_anim_003.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_navigation_cursor_back_left_anim_004.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_navigation_cursor_back_left_anim_005.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_navigation_cursor_back_left_anim_006.png" dx="0" dy="0" width="48" height="48" />
+    <frame source="48x48_navigation_cursor_back_left_anim_007.png" dx="0" dy="0" width="48" height="48" />
+</animatedImage>

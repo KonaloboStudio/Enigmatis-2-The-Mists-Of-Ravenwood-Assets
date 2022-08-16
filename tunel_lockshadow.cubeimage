@@ -1,0 +1,9 @@
+<animatedImage fps="18" blendframes="0" width="109" height="157"> 
+	<frame source="tunel_lockshadow_shadow_flare_01.png" dx="0" dy="2" width="109" height="144"></frame>
+	<frame source="tunel_lockshadow_shadow_flare_02.png" dx="0" dy="0" width="107" height="157"></frame>
+	<frame source="tunel_lockshadow_shadow_flare_03.png" dx="7" dy="3" width="86" height="142"></frame>
+	<frame source="tunel_lockshadow_shadow_flare_01.png" dx="0" dy="2" width="109" height="144"></frame>
+	<frame source="tunel_lockshadow_shadow_flare_02.png" dx="0" dy="0" width="107" height="157"></frame>
+	<frame source="tunel_lockshadow_shadow_flare_03.png" dx="7" dy="3" width="86" height="142"></frame>
+	<frame source="tunel_lockshadow_shadow_flare_01.png" dx="0" dy="2" width="109" height="144"></frame>
+</animatedImage >

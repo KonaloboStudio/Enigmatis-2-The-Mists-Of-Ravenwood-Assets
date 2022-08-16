@@ -1,0 +1,33 @@
+<animatedImage fps="24" blendframes="0" width="63" height="53">
+	<frame source="zoom_ledge-2_windmill_30_Windmill_00.png" dx="1" dy="0" width="62" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_01.png" dx="1" dy="0" width="62" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_02.png" dx="1" dy="0" width="62" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_03.png" dx="1" dy="0" width="62" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_04.png" dx="1" dy="0" width="61" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_05.png" dx="1" dy="0" width="61" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_06.png" dx="1" dy="0" width="61" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_07.png" dx="1" dy="0" width="61" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_08.png" dx="0" dy="0" width="61" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_09.png" dx="0" dy="0" width="61" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_10.png" dx="0" dy="0" width="61" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_11.png" dx="0" dy="0" width="61" height="53"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_12.png" dx="0" dy="0" width="61" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_13.png" dx="0" dy="0" width="61" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_14.png" dx="0" dy="0" width="61" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_15.png" dx="0" dy="0" width="61" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_16.png" dx="0" dy="0" width="61" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_17.png" dx="0" dy="0" width="61" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_18.png" dx="0" dy="0" width="61" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_19.png" dx="1" dy="0" width="60" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_20.png" dx="1" dy="0" width="60" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_21.png" dx="1" dy="0" width="60" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_22.png" dx="1" dy="0" width="60" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_23.png" dx="0" dy="0" width="62" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_24.png" dx="0" dy="0" width="62" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_25.png" dx="0" dy="0" width="62" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_26.png" dx="1" dy="0" width="61" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_27.png" dx="1" dy="0" width="62" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_28.png" dx="1" dy="0" width="62" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_29.png" dx="1" dy="0" width="62" height="52"></frame>
+	<frame source="zoom_ledge-2_windmill_30_Windmill_30.png" dx="1" dy="0" width="62" height="52"></frame>
+</animatedImage>

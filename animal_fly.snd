@@ -1,0 +1,9 @@
+<!-- Used in location where birds appear. Bird fly away after click. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.600" FileName="animal_fly.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

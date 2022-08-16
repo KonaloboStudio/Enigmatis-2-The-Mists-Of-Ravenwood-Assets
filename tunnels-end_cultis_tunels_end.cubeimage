@@ -1,0 +1,10 @@
+<animatedImage fps="4" blendframes="1" width="57" height="84">
+	<frame source="tunnels-end_cultis_tunels_end_cultis_tunels_end_01.png" dx="16" dy="3" width="41" height="77"></frame>
+	<frame source="tunnels-end_cultis_tunels_end_cultis_tunels_end_02.png" dx="6" dy="10" width="35" height="72"></frame>
+	<frame source="tunnels-end_cultis_tunels_end_cultis_tunels_end_03.png" dx="2" dy="15" width="28" height="68"></frame>
+	<frame source="tunnels-end_cultis_tunels_end_cultis_tunels_end_04.png" dx="0" dy="19" width="27" height="65"></frame>
+	<frame source="tunnels-end_cultis_tunels_end_cultis_tunels_end_05.png" dx="1" dy="17" width="31" height="62"></frame>
+	<frame source="tunnels-end_cultis_tunels_end_cultis_tunels_end_06.png" dx="11" dy="10" width="26" height="64"></frame>
+	<frame source="tunnels-end_cultis_tunels_end_cultis_tunels_end_07.png" dx="13" dy="0" width="22" height="60"></frame>
+	<frame source="tunnels-end_cultis_tunels_end_cultis_tunels_end_08.png" dx="23" dy="10" width="10" height="40"></frame>
+</animatedImage>

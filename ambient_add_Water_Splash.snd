@@ -1,0 +1,7 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000" Ambient="true">
+    <CRandomContainer>
+        <CSample>
+           <CSampleFile Pan="0.400"  Looped="true" Pitch="0.850" Volume="0.500" FileName="ambient_base_Water_Splash.wav" ></CSampleFile>
+        </CSample>
+    </CRandomContainer>
+</Sound>

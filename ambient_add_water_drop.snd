@@ -1,0 +1,13 @@
+<!-- Additional ambient of water dropping constantly
+
+- Village.House.Cellar
+
+-->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="0.5" Looped="true" Ambient="true">
+    <CRandomContainer DelayMin="2" DelayMax="4">
+		<CSample>
+			<CSampleFile Pan="0.000" Pitch="1.000" Volume="0.5" FileName="27_Water_drop.wav"></CSampleFile>
+		</CSample>
+	</CRandomContainer>
+</Sound>

@@ -1,0 +1,5 @@
+<Sound Pan="0.000" Pitch="1.000" Volume="1.000">
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.100" Looped="true" Volume="1.000" FileName="anim_Water_Pump_Loop.wav"></CSampleFile>
+        </CSample>
+</Sound>

@@ -1,0 +1,5 @@
+<Sound Looped="False" Pan="0.000" Pitch="1.000" Volume="1.000">
+	<CSample>
+		<CSampleFile FileName="invoke_scenario_worker_idle.wav" Pan="0.200" Pitch="0.800" Volume="1.000"/>
+	</CSample>
+</Sound>

@@ -1,0 +1,11 @@
+<animatedImage fps="10" blendframes="0" width="53" height="43"> 
+	<frame source="deer_deer_01.png" dx="3" dy="0" width="50" height="43"></frame>
+	<frame source="deer_deer_02.png" dx="4" dy="0" width="49" height="43"></frame>
+	<frame source="deer_deer_03.png" dx="3" dy="0" width="50" height="43"></frame>
+	<frame source="deer_deer_04.png" dx="2" dy="0" width="51" height="43"></frame>
+	<frame source="deer_deer_05.png" dx="0" dy="1" width="53" height="42"></frame>
+	<frame source="deer_deer_04.png" dx="2" dy="0" width="51" height="43"></frame>
+	<frame source="deer_deer_03.png" dx="3" dy="0" width="50" height="43"></frame>
+	<frame source="deer_deer_02.png" dx="4" dy="0" width="49" height="43"></frame>
+	<frame source="deer_deer_01.png" dx="3" dy="0" width="50" height="43"></frame>
+</animatedImage >

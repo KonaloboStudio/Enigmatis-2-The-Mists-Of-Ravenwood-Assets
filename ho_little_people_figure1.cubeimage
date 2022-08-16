@@ -1,0 +1,8 @@
+<animatedImage fps="7" blendframes="0" width="442" height="325"> 
+	<frame source="ho_little_people_figure1_EX_figure1_01.png" dx="0" dy="33" width="267" height="292"></frame>
+	<frame source="ho_little_people_figure1_EX_figure1_02.png" dx="31" dy="0" width="284" height="325"></frame>
+	<frame source="ho_little_people_figure1_EX_figure1_03.png" dx="29" dy="74" width="413" height="251"></frame>
+	<frame source="ho_little_people_figure1_EX_figure1_03.png" dx="29" dy="74" width="413" height="251"></frame>
+	<frame source="ho_little_people_figure1_EX_figure1_02.png" dx="31" dy="0" width="284" height="325"></frame>
+	<frame source="ho_little_people_figure1_EX_figure1_01.png" dx="0" dy="33" width="267" height="292"></frame>
+</animatedImage >

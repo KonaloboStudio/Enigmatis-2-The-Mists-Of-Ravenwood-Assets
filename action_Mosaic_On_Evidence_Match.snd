@@ -1,0 +1,9 @@
+<!-- Used in Mosaic, an evidence is placed in the correct circle. -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="0.9" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="1.000" Volume="0.900" FileName="action_Mosaic_On_Evidence_Match.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

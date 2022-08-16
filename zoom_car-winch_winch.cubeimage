@@ -1,0 +1,5 @@
+<animatedImage fps="3" blendframes="1" width="242" height="331">
+	<frame source="zoom_car-winch_winch_winch_01.png" dx="35" dy="0" width="167" height="331"></frame>
+	<frame source="zoom_car-winch_winch_winch_02.png" dx="16" dy="1" width="226" height="330"></frame>
+	<frame source="zoom_car-winch_winch_winch_03.png" dx="0" dy="1" width="236" height="330"></frame>
+</animatedImage>

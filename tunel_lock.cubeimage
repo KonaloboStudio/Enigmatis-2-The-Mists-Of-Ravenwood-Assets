@@ -1,0 +1,9 @@
+<animatedImage fps="18" blendframes="0" width="77" height="118"> 
+	<frame source="tunel_lock_EX_lock_01.png" dx="0" dy="11" width="77" height="107"></frame>
+	<frame source="tunel_lock_EX_lock_03.png" dx="0" dy="13" width="77" height="105"></frame>
+	<frame source="tunel_lock_EX_lock_02.png" dx="0" dy="0" width="77" height="118"></frame>
+	<frame source="tunel_lock_EX_lock_01.png" dx="0" dy="11" width="77" height="107"></frame>
+	<frame source="tunel_lock_EX_lock_03.png" dx="0" dy="13" width="77" height="105"></frame>
+	<frame source="tunel_lock_EX_lock_02.png" dx="0" dy="0" width="77" height="118"></frame>
+	<frame source="tunel_lock_EX_lock_01.png" dx="0" dy="11" width="77" height="107"></frame>
+</animatedImage >

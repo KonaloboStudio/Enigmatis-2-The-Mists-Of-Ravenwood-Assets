@@ -1,0 +1,5 @@
+<animatedImage fps="3" blendframes="0" width="68" height="171">
+	<frame source="ce_fs-zoom_chamber-gate_cultist__EX_cultist_3.png" dx="0" dy="0" width="66" height="171"></frame>
+	<frame source="ce_fs-zoom_chamber-gate_cultist__EX_cultist_2.png" dx="0" dy="0" width="56" height="171"></frame>
+	<frame source="ce_fs-zoom_chamber-gate_cultist__EX_cultist_1.png" dx="0" dy="0" width="68" height="171"></frame>
+</animatedImage>

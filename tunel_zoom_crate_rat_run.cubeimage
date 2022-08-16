@@ -1,0 +1,5 @@
+<animatedImage fps="1" blendframes="0" width="255" height="104"> 
+	<frame source="tunel_zoom_crate_EX_rat_run05.png" dx="46" dy="8" width="209" height="96"></frame>
+	<frame source="tunel_zoom_crate_EX_rat_run03.png" dx="21" dy="6" width="212" height="98"></frame>
+	<frame source="tunel_zoom_crate_EX_rat_run01.png" dx="0" dy="0" width="211" height="104"></frame>
+</animatedImage >

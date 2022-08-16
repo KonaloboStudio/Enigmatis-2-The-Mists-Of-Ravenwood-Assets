@@ -1,0 +1,9 @@
+<!-- Used in Church: Minigame BasementSafe. Push the button -->
+
+<Sound Pan="0.300" Pitch="1.000" Volume="1.000" Looped="false" >
+    <CSequenceContainer>
+        <CSample>
+           <CSampleFile Pan="0.000" Pitch="0.900" Volume="1.000" FileName="minigame_BasementSafe_PushButton.wav"></CSampleFile>
+        </CSample>
+    </CSequenceContainer>
+</Sound>

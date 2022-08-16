@@ -1,0 +1,5 @@
+<animatedImage fps="7" blendframes="0" width="109" height="155">
+	<frame source="mzoom_coupling_imbus_1.png" dx="54" dy="3" width="55" height="135"></frame>
+	<frame source="mzoom_coupling_imbus_2.png" dx="56" dy="38" width="47" height="97"></frame>
+	<frame source="mzoom_coupling_imbus_3.png" dx="0" dy="17" width="78" height="115"></frame>
+</animatedImage>

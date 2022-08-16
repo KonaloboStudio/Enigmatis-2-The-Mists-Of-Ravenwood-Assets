@@ -1,0 +1,14 @@
+<animatedImage fps="65" blendframes="0" width="104" height="118">
+	<frame source="ho_lumbercjack_art_handdrill_handdrill_01.png" dx="35" dy="0" width="34" height="118"></frame>
+	<frame source="ho_lumbercjack_art_handdrill_handdrill_02.png" dx="35" dy="0" width="34" height="118"></frame>
+	<frame source="ho_lumbercjack_art_handdrill_handdrill_03.png" dx="2" dy="0" width="81" height="118"></frame>
+	<frame source="ho_lumbercjack_art_handdrill_handdrill_04.png" dx="8" dy="0" width="75" height="118"></frame>
+	<frame source="ho_lumbercjack_art_handdrill_handdrill_05.png" dx="0" dy="0" width="83" height="118"></frame>
+	<frame source="ho_lumbercjack_art_handdrill_handdrill_06.png" dx="8" dy="0" width="75" height="118"></frame>
+	<frame source="ho_lumbercjack_art_handdrill_handdrill_07.png" dx="2" dy="0" width="81" height="118"></frame>
+	<frame source="ho_lumbercjack_art_handdrill_handdrill_08.png" dx="15" dy="0" width="75" height="118"></frame>
+	<frame source="ho_lumbercjack_art_handdrill_handdrill_09.png" dx="15" dy="0" width="52" height="118"></frame>
+	<frame source="ho_lumbercjack_art_handdrill_handdrill_10.png" dx="31" dy="1" width="55" height="117"></frame>
+	<frame source="ho_lumbercjack_art_handdrill_handdrill_11.png" dx="15" dy="0" width="80" height="118"></frame>
+	<frame source="ho_lumbercjack_art_handdrill_handdrill_12.png" dx="15" dy="0" width="89" height="118"></frame>
+</animatedImage>

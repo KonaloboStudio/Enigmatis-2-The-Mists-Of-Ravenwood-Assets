@@ -1,0 +1,91 @@
+<!-- Additional ambient soundscript for damaged indoors:
+
+- Village.House.Vestibule
+- Village.House.Corridor
+- Village.House.Bathroom
+- Village.House.PCRoom
+- Village.House.Cellar
+- Farm.Barn
+- Mansion.Hall
+- Mansion.FireplaceRoom
+- Mansion.DiningRoom
+- Mansion.Study
+- Mansion.GirlsRoom
+
+ -->
+
+<Sound Pan="0.0" Pitch="1.000" Volume="0.75" Looped="true" Ambient="true">
+    <CRandomContainer DelayMin="12" DelayMax="20" WaitAfterMin="12" WaitAfterMax="20">
+        <CSample Weight="3">
+		<!-- Louder squeak #1 -->
+           <CSampleFile Pan="0.100" Pitch="0.300" Volume="0.750" FileName="06_Artificial_squeak_2.wav"></CSampleFile>
+        </CSample>
+		<CSample Weight="3">
+		<!-- Louder squeak #2 -->
+           <CSampleFile Pan="0.500" Pitch="0.700" Volume="0.750" FileName="05_Artificial_Squeak_5.wav"></CSampleFile>
+        </CSample>
+		<CSample Weight="3">
+		<!-- Louder squeak #2 -->
+           <CSampleFile Pan="0.500" Pitch="0.700" Volume="0.750" FileName="58_Building_Damage.wav"></CSampleFile>
+        </CSample>
+
+		<CRandomContainer Volume="0.6" Weight="3">
+		<!-- Louder floor hard hits #1, #2, #3 -->
+		   <CSample>
+              <CSampleFile Pan="0.600" Weight="1" Pitch="1.000" Volume="1.0" FileName="20_Hit_floor_hard_2.wav"></CSampleFile>
+           </CSample>
+		   <CSample>
+              <CSampleFile Pan="0.600" Weight="1" Pitch="1.000" Volume="1.0" FileName="20_Hit_floor_hard_3.wav"></CSampleFile>
+           </CSample>
+		   <CSample>
+              <CSampleFile Pan="0.600" Weight="1" Pitch="1.000" Volume="1.0" FileName="20_Hit_floor_hard_4.wav"></CSampleFile>
+           </CSample>
+		</CRandomContainer>
+
+		<CRandomContainer Volume="0.4" Weight="3">
+		<!-- Medium loud floor hard hits #1, #2, #3 -->
+		   <CSample>
+              <CSampleFile Pan="0.600" Weight="1" Pitch="1.000" Volume="1.0" FileName="20_Hit_floor_hard_2.wav"></CSampleFile>
+           </CSample>
+		   <CSample>
+              <CSampleFile Pan="0.600" Weight="1" Pitch="1.000" Volume="1.0" FileName="20_Hit_floor_hard_3.wav"></CSampleFile>
+           </CSample>
+		   <CSample>
+              <CSampleFile Pan="0.600" Weight="1" Pitch="1.000" Volume="1.0" FileName="20_Hit_floor_hard_4.wav"></CSampleFile>
+           </CSample>
+		</CRandomContainer>
+
+		<CRandomContainer Volume="0.2" Weight="3">
+		<!-- Silent floor hard hits #1, #2, #3 -->
+		   <CSample>
+              <CSampleFile Pan="0.600" Weight="1" Pitch="1.000" Volume="1.0" FileName="20_Hit_floor_hard_2.wav"></CSampleFile>
+           </CSample>
+		   <CSample>
+              <CSampleFile Pan="0.600" Weight="1" Pitch="1.000" Volume="1.0" FileName="20_Hit_floor_hard_3.wav"></CSampleFile>
+           </CSample>
+		   <CSample>
+              <CSampleFile Pan="0.600" Weight="1" Pitch="1.000" Volume="1.0" FileName="20_Hit_floor_hard_4.wav"></CSampleFile>
+           </CSample>
+		</CRandomContainer>
+
+		<CRandomContainer Volume="0.4" Weight="2">
+		<!-- Louder floor brittle hits #1, #2 -->
+  		   <CSample>
+              <CSampleFile Pan="0.040" Weight="1" Pitch="0.500" Volume="1.0" FileName="21_Hit_Floor_Brittle_1.wav"></CSampleFile>
+           </CSample>
+		   <CSample>
+              <CSampleFile Pan="0.040" Weight="1" Pitch="0.500" Volume="1.0" FileName="21_Hit_Floor_Brittle_2.wav"></CSampleFile>
+           </CSample>
+        </CRandomContainer>
+
+		<CRandomContainer Volume="0.25" Weight="2">
+		<!-- Quiter floor brittle hits #1, #2 -->
+  		   <CSample>
+              <CSampleFile Pan="0.040" Weight="1" Pitch="0.500" Volume="1.0" FileName="21_Hit_Floor_Brittle_1.wav"></CSampleFile>
+           </CSample>
+		   <CSample>
+              <CSampleFile Pan="0.040" Weight="1" Pitch="0.500" Volume="1.0" FileName="21_Hit_Floor_Brittle_2.wav"></CSampleFile>
+           </CSample>
+        </CRandomContainer>
+    </CRandomContainer>
+</Sound>
